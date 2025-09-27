@@ -1,0 +1,163 @@
+[2025-09-24T16:45:26.955Z] ERROR: Cannot read properties of undefined (reading 'userService')
+[2025-09-24T17:24:12.036Z] ERROR: Cast to string failed for value "{ Estado: true, Respuesta: '7cd84bf62a6de313079046cf00384a7a' }" (type Object) at path "Phone" for model "Mongo_User"
+[2025-09-24T17:24:39.900Z] ERROR: Cast to string failed for value "{ Estado: true, Respuesta: '7cd84bf62a6de313079046cf00384a7a' }" (type Object) at path "Phone" for model "Mongo_User"
+[2025-09-24T17:25:04.465Z] ERROR: Cast to string failed for value "{ Estado: true, Respuesta: '7cd84bf62a6de313079046cf00384a7a' }" (type Object) at path "Phone" for model "Mongo_User"
+[2025-09-24T21:01:36.758Z] ERROR: Operation `Users.findOne()` buffering timed out after 10000ms
+[2025-09-24T23:00:53.890Z] ERROR: Operation `Users.findOne()` buffering timed out after 10000ms
+[2025-09-25T21:03:19.460Z] ERROR: user_db_ts_1.Mongo_User.findOne(...).select is not a function
+[2025-09-25T21:03:19.468Z] ERROR: user_db_ts_1.Mongo_User.findOne(...).select is not a function
+[2025-09-25T21:12:18.534Z] ERROR: Error en encriptación
+[2025-09-25T21:12:18.540Z] ERROR: Error en encriptación
+[2025-09-25T21:12:57.652Z] ERROR: Error en encriptación
+[2025-09-25T21:12:57.659Z] ERROR: Error en encriptación
+[2025-09-25T21:12:57.663Z] ERROR: Error en encriptación
+[2025-09-25T21:13:50.672Z] ERROR: Error en encriptación
+[2025-09-25T21:13:50.678Z] ERROR: Error en encriptación
+[2025-09-25T21:13:50.682Z] ERROR: Error en encriptación
+[2025-09-25T21:13:50.684Z] ERROR: Error en encriptación
+[2025-09-25T21:14:53.893Z] ERROR: Error en encriptación
+[2025-09-25T21:14:53.898Z] ERROR: Error en encriptación
+[2025-09-25T21:14:53.902Z] ERROR: Error en encriptación
+[2025-09-25T21:14:53.906Z] ERROR: Error en encriptación
+[2025-09-25T21:14:53.910Z] ERROR: Error en encriptación
+[2025-09-25T21:15:14.116Z] ERROR: Error en encriptación
+[2025-09-25T21:15:14.121Z] ERROR: Error en encriptación
+[2025-09-25T21:15:14.128Z] ERROR: Error en encriptación
+[2025-09-25T21:15:14.131Z] ERROR: Error en encriptación
+[2025-09-25T21:15:14.135Z] ERROR: Error en encriptación
+[2025-09-25T21:17:20.283Z] ERROR: Error en encriptación
+[2025-09-25T21:17:20.287Z] ERROR: Error en encriptación
+[2025-09-25T21:17:20.291Z] ERROR: Error en encriptación
+[2025-09-25T21:17:20.296Z] ERROR: Error en encriptación
+[2025-09-25T21:17:20.300Z] ERROR: Error en encriptación
+[2025-09-25T21:40:35.918Z] ERROR: Error en encriptación
+[2025-09-25T21:40:35.922Z] ERROR: Error en encriptación
+[2025-09-25T21:40:35.925Z] ERROR: Error en encriptación
+[2025-09-25T21:40:35.939Z] ERROR: Error en encriptación
+[2025-09-25T21:40:35.943Z] ERROR: Error en encriptación
+[2025-09-25T21:41:28.319Z] ERROR: Error en encriptación
+[2025-09-25T21:41:28.325Z] ERROR: Error en encriptación
+[2025-09-25T21:41:28.329Z] ERROR: Error en encriptación
+[2025-09-25T21:41:28.334Z] ERROR: Error en encriptación
+[2025-09-25T21:41:28.337Z] ERROR: Error en encriptación
+[2025-09-25T21:48:48.732Z] ERROR: Cannot set headers after they are sent to the client
+[2025-09-25T21:54:24.761Z] ERROR: Expected "payload" to be a plain object.
+[2025-09-25T22:10:23.675Z] ERROR: jwt malformed
+[2025-09-25T22:22:25.002Z] ERROR: Bad control character in string literal in JSON at position 32 (line 1 column 33)
+[2025-09-25T22:31:22.627Z] ERROR: Error en encriptación
+[2025-09-25T22:31:22.631Z] ERROR: Error en encriptación
+[2025-09-25T22:31:22.635Z] ERROR: Error en encriptación
+[2025-09-25T22:31:22.639Z] ERROR: Error en encriptación
+[2025-09-25T22:31:22.643Z] ERROR: Error en encriptación
+[2025-09-25T22:37:58.992Z] ERROR: Error en encriptación
+[2025-09-25T22:37:58.995Z] ERROR: Error en encriptación
+[2025-09-25T22:37:58.997Z] ERROR: Error en encriptación
+[2025-09-25T22:37:58.999Z] ERROR: Error en encriptación
+[2025-09-25T22:37:59.002Z] ERROR: Error en encriptación
+[2025-09-25T22:39:43.493Z] ERROR: Error en encriptación
+[2025-09-25T22:39:43.496Z] ERROR: Error en encriptación
+[2025-09-25T22:39:43.500Z] ERROR: Error en encriptación
+[2025-09-25T22:39:43.503Z] ERROR: Error en encriptación
+[2025-09-25T22:39:43.506Z] ERROR: Error en encriptación
+[2025-09-25T22:41:01.998Z] ERROR: Error en encriptación
+[2025-09-25T22:41:02.001Z] ERROR: Error en encriptación
+[2025-09-25T22:41:02.003Z] ERROR: Error en encriptación
+[2025-09-25T22:41:02.005Z] ERROR: Error en encriptación
+[2025-09-25T22:41:02.008Z] ERROR: Error en encriptación
+[2025-09-25T22:41:02.267Z] ERROR: Falló la creación
+[2025-09-25T22:43:39.718Z] ERROR: Error en encriptación
+[2025-09-25T22:43:39.721Z] ERROR: Error en encriptación
+[2025-09-25T22:43:39.724Z] ERROR: Error en encriptación
+[2025-09-25T22:43:39.729Z] ERROR: Error en encriptación
+[2025-09-25T22:43:39.732Z] ERROR: Error en encriptación
+[2025-09-25T22:43:39.995Z] ERROR: Falló la creación
+[2025-09-25T22:44:36.148Z] ERROR: Error en encriptación
+[2025-09-25T22:44:36.151Z] ERROR: Error en encriptación
+[2025-09-25T22:44:36.154Z] ERROR: Error en encriptación
+[2025-09-25T22:44:36.157Z] ERROR: Error en encriptación
+[2025-09-25T22:44:36.160Z] ERROR: Error en encriptación
+[2025-09-25T22:46:29.532Z] ERROR: Error en encriptación
+[2025-09-25T22:46:29.535Z] ERROR: Error en encriptación
+[2025-09-25T22:46:29.538Z] ERROR: Error en encriptación
+[2025-09-25T22:46:29.540Z] ERROR: Error en encriptación
+[2025-09-25T22:46:29.543Z] ERROR: Error en encriptación
+[2025-09-25T22:46:29.810Z] ERROR: Falló la creación
+[2025-09-25T22:46:29.812Z] ERROR: Token inválido
+[2025-09-27T16:28:12.932Z] ERROR: Mongo_Chat validation failed: Messages.2.sender: Path `sender` is required.
+[2025-09-27T16:29:16.277Z] ERROR: Mongo_Chat validation failed: Messages.2._id: Cast to ObjectId failed for value "[
+  {
+    sender: '68d80c4ffc6b9a80377dba70',
+    content: 'string',
+    image: 'string'
+  }
+]" (type Array) at path "_id" because of "BSONError", Messages.2.sender: Path `sender` is required.
+[2025-09-27T16:42:40.144Z] ERROR: Cast to ObjectId failed for value "68d81185ea210cd5516fd32lb" (type string) at path "_id" because of "BSONError"
+[2025-09-27T17:27:00.975Z] ERROR: Falló la creación
+[2025-09-27T17:27:00.977Z] ERROR: Token inválido
+[2025-09-27T17:27:01.514Z] ERROR: Error en encriptación
+[2025-09-27T17:27:01.517Z] ERROR: Error en encriptación
+[2025-09-27T17:27:01.519Z] ERROR: Error en encriptación
+[2025-09-27T17:27:01.522Z] ERROR: Error en encriptación
+[2025-09-27T17:27:01.524Z] ERROR: Error en encriptación
+[2025-09-27T17:31:21.121Z] ERROR: Falló la creación
+[2025-09-27T17:31:21.124Z] ERROR: Token inválido
+[2025-09-27T17:31:21.488Z] ERROR: Error en encriptación
+[2025-09-27T17:31:21.490Z] ERROR: Error en encriptación
+[2025-09-27T17:31:21.493Z] ERROR: Error en encriptación
+[2025-09-27T17:31:21.495Z] ERROR: Error en encriptación
+[2025-09-27T17:31:21.502Z] ERROR: Error en encriptación
+[2025-09-27T17:32:34.525Z] ERROR: Falló la creación
+[2025-09-27T17:32:34.527Z] ERROR: Token inválido
+[2025-09-27T17:32:34.919Z] ERROR: Error en encriptación
+[2025-09-27T17:32:34.922Z] ERROR: Error en encriptación
+[2025-09-27T17:32:34.924Z] ERROR: Error en encriptación
+[2025-09-27T17:32:34.927Z] ERROR: Error en encriptación
+[2025-09-27T17:32:34.931Z] ERROR: Error en encriptación
+[2025-09-27T17:34:14.276Z] ERROR: Falló la creación
+[2025-09-27T17:34:14.279Z] ERROR: Token inválido
+[2025-09-27T17:34:14.670Z] ERROR: Error en encriptación
+[2025-09-27T17:34:14.673Z] ERROR: Error en encriptación
+[2025-09-27T17:34:14.676Z] ERROR: Error en encriptación
+[2025-09-27T17:34:14.678Z] ERROR: Error en encriptación
+[2025-09-27T17:34:14.681Z] ERROR: Error en encriptación
+[2025-09-27T17:34:15.997Z] ERROR: El id del chat no existe
+[2025-09-27T17:36:56.593Z] ERROR: Falló la creación
+[2025-09-27T17:36:56.596Z] ERROR: Token inválido
+[2025-09-27T17:36:57.021Z] ERROR: Error en encriptación
+[2025-09-27T17:36:57.024Z] ERROR: Error en encriptación
+[2025-09-27T17:36:57.027Z] ERROR: Error en encriptación
+[2025-09-27T17:36:57.029Z] ERROR: Error en encriptación
+[2025-09-27T17:36:57.032Z] ERROR: Error en encriptación
+[2025-09-27T17:36:58.349Z] ERROR: El id del chat no existe
+[2025-09-27T17:36:58.350Z] ERROR: Cannot read properties of undefined (reading 'push')
+[2025-09-27T17:36:58.355Z] ERROR: El id del chat no existe
+[2025-09-27T17:38:44.234Z] ERROR: Falló la creación
+[2025-09-27T17:38:44.236Z] ERROR: Token inválido
+[2025-09-27T17:38:44.626Z] ERROR: Error en encriptación
+[2025-09-27T17:38:44.628Z] ERROR: Error en encriptación
+[2025-09-27T17:38:44.637Z] ERROR: Error en encriptación
+[2025-09-27T17:38:44.639Z] ERROR: Error en encriptación
+[2025-09-27T17:38:44.643Z] ERROR: Error en encriptación
+[2025-09-27T17:38:45.934Z] ERROR: El id del chat no existe
+[2025-09-27T17:38:45.937Z] ERROR: El id del chat no existe
+[2025-09-27T17:40:58.353Z] ERROR: Falló la creación
+[2025-09-27T17:40:58.355Z] ERROR: Token inválido
+[2025-09-27T17:40:58.754Z] ERROR: Error en encriptación
+[2025-09-27T17:40:58.757Z] ERROR: Error en encriptación
+[2025-09-27T17:40:58.759Z] ERROR: Error en encriptación
+[2025-09-27T17:40:58.762Z] ERROR: Error en encriptación
+[2025-09-27T17:40:58.765Z] ERROR: Error en encriptación
+[2025-09-27T17:41:00.168Z] ERROR: El id del chat no existe
+[2025-09-27T17:41:00.170Z] ERROR: El id del chat no existe
+[2025-09-27T17:41:00.172Z] ERROR: El id del chat no existe
+[2025-09-27T17:42:32.763Z] ERROR: Falló la creación
+[2025-09-27T17:42:32.766Z] ERROR: Token inválido
+[2025-09-27T17:42:33.180Z] ERROR: Error en encriptación
+[2025-09-27T17:42:33.183Z] ERROR: Error en encriptación
+[2025-09-27T17:42:33.186Z] ERROR: Error en encriptación
+[2025-09-27T17:42:33.189Z] ERROR: Error en encriptación
+[2025-09-27T17:42:33.192Z] ERROR: Error en encriptación
+[2025-09-27T17:42:34.475Z] ERROR: El id del chat no existe
+[2025-09-27T17:42:34.477Z] ERROR: El id del chat no existe
+[2025-09-27T17:42:34.479Z] ERROR: El id del chat no existe
+[2025-09-27T17:42:34.485Z] ERROR: El id del chat no existe
