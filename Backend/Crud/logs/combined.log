@@ -1,0 +1,1546 @@
+[2025-09-24T15:32:06.602Z] INFO: Server Active http://localhost:4000
+[2025-09-24T15:33:17.343Z] INFO: Server Active http://localhost:4000
+[2025-09-24T15:37:34.710Z] INFO: Server Active http://localhost:4000
+[2025-09-24T15:38:28.023Z] INFO: Server Active http://localhost:4000
+[2025-09-24T15:39:45.181Z] INFO: Server Active http://localhost:4000
+[2025-09-24T15:43:34.684Z] INFO: Server Active http://localhost:4000
+[2025-09-24T15:43:43.227Z] INFO: Server Active http://localhost:4000
+[2025-09-24T15:43:50.884Z] INFO: Server Active http://localhost:4000
+[2025-09-24T15:45:05.767Z] INFO: Server Active http://localhost:4000
+[2025-09-24T15:46:48.382Z] INFO: Server Active http://localhost:4000
+[2025-09-24T15:46:53.677Z] INFO: Server Active http://localhost:4000
+[2025-09-24T15:51:00.013Z] INFO: Server Active http://localhost:4000
+[2025-09-24T15:51:11.785Z] INFO: Server Active http://localhost:4000
+[2025-09-24T15:54:01.426Z] INFO: Server Active http://localhost:4000
+[2025-09-24T15:55:06.671Z] INFO: Server Active http://localhost:4000
+[2025-09-24T16:00:12.120Z] INFO: Server Active http://localhost:4000
+[2025-09-24T16:02:23.051Z] INFO: Server Active http://localhost:4000
+[2025-09-24T16:02:23.061Z] INFO: Database connected
+[2025-09-24T16:02:38.650Z] INFO: Server Active http://localhost:4000
+[2025-09-24T16:02:38.660Z] INFO: Database connected
+[2025-09-24T16:02:42.177Z] INFO: Server Active http://localhost:4000
+[2025-09-24T16:02:42.187Z] INFO: Database connected
+[2025-09-24T16:04:12.414Z] INFO: Server Active http://localhost:4000
+[2025-09-24T16:04:12.422Z] INFO: Database connected
+[2025-09-24T16:04:22.600Z] INFO: Server Active http://localhost:4000
+[2025-09-24T16:04:22.609Z] INFO: Database connected
+[2025-09-24T16:08:59.486Z] INFO: Server Active http://localhost:4000
+[2025-09-24T16:08:59.496Z] INFO: Database connected
+[2025-09-24T16:09:53.203Z] INFO: Server Active http://localhost:4000
+[2025-09-24T16:09:53.211Z] INFO: Database connected
+[2025-09-24T16:11:39.639Z] INFO: Server Active http://localhost:4000
+[2025-09-24T16:11:39.649Z] INFO: Database connected
+[2025-09-24T16:13:04.666Z] INFO: Server Active http://localhost:4000
+[2025-09-24T16:13:04.675Z] INFO: Database connected
+[2025-09-24T16:13:51.886Z] INFO: Server Active http://localhost:4000
+[2025-09-24T16:13:51.895Z] INFO: Database connected
+[2025-09-24T16:18:03.015Z] INFO: Server Active http://localhost:4000
+[2025-09-24T16:18:03.024Z] INFO: Database connected
+[2025-09-24T16:40:15.417Z] INFO: Server Active http://localhost:4000
+[2025-09-24T16:40:15.430Z] INFO: Database connected
+[2025-09-24T16:44:24.201Z] INFO: Server Active http://localhost:4000
+[2025-09-24T16:44:24.213Z] INFO: Database connected
+[2025-09-24T16:45:25.882Z] INFO: Server Active http://localhost:4000
+[2025-09-24T16:45:25.893Z] INFO: Database connected
+[2025-09-24T16:45:26.955Z] ERROR: Cannot read properties of undefined (reading 'userService')
+[2025-09-24T16:46:59.872Z] INFO: Server Active http://localhost:4000
+[2025-09-24T16:46:59.882Z] INFO: Database connected
+[2025-09-24T16:47:08.580Z] INFO: Usuario creado correctamente
+[2025-09-24T16:53:59.688Z] INFO: Server Active http://localhost:4000
+[2025-09-24T16:53:59.698Z] INFO: Database connected
+[2025-09-24T16:54:35.381Z] INFO: Server Active http://localhost:4000
+[2025-09-24T16:54:35.391Z] INFO: Database connected
+[2025-09-24T16:55:25.116Z] INFO: Server Active http://localhost:4000
+[2025-09-24T16:55:25.126Z] INFO: Database connected
+[2025-09-24T16:55:48.967Z] INFO: Server Active http://localhost:4000
+[2025-09-24T16:55:48.977Z] INFO: Database connected
+[2025-09-24T16:57:56.937Z] INFO: Usuario creado correctamente
+[2025-09-24T16:59:13.830Z] INFO: Server Active http://localhost:4000
+[2025-09-24T16:59:13.839Z] INFO: Database connected
+[2025-09-24T16:59:32.105Z] INFO: Server Active http://localhost:4000
+[2025-09-24T16:59:32.114Z] INFO: Database connected
+[2025-09-24T16:59:38.709Z] INFO: Server Active http://localhost:4000
+[2025-09-24T16:59:38.718Z] INFO: Database connected
+[2025-09-24T17:00:09.600Z] WARN: Usuario no encontrado
+[2025-09-24T17:00:29.695Z] WARN: Usuario no encontrado
+[2025-09-24T17:00:45.731Z] INFO: Usuario creado correctamente
+[2025-09-24T17:01:05.800Z] INFO: Usuario actualizado correctamente
+[2025-09-24T17:01:22.383Z] INFO: Usuario actualizado correctamente
+[2025-09-24T17:05:33.908Z] INFO: Server Active http://localhost:4000
+[2025-09-24T17:05:33.917Z] INFO: Database connected
+[2025-09-24T17:08:53.378Z] INFO: Server Active http://localhost:4000
+[2025-09-24T17:08:53.388Z] INFO: Database connected
+[2025-09-24T17:24:07.131Z] INFO: Server Active http://localhost:4000
+[2025-09-24T17:24:07.141Z] INFO: Database connected
+[2025-09-24T17:24:12.032Z] INFO: Texto encriptado
+[2025-09-24T17:24:12.033Z] INFO: Texto encriptado
+[2025-09-24T17:24:12.036Z] ERROR: Cast to string failed for value "{ Estado: true, Respuesta: '7cd84bf62a6de313079046cf00384a7a' }" (type Object) at path "Phone" for model "Mongo_User"
+[2025-09-24T17:24:39.896Z] INFO: Texto encriptado
+[2025-09-24T17:24:39.897Z] INFO: Texto encriptado
+[2025-09-24T17:24:39.900Z] ERROR: Cast to string failed for value "{ Estado: true, Respuesta: '7cd84bf62a6de313079046cf00384a7a' }" (type Object) at path "Phone" for model "Mongo_User"
+[2025-09-24T17:25:04.463Z] INFO: Texto encriptado
+[2025-09-24T17:25:04.463Z] INFO: Texto encriptado
+[2025-09-24T17:25:04.465Z] ERROR: Cast to string failed for value "{ Estado: true, Respuesta: '7cd84bf62a6de313079046cf00384a7a' }" (type Object) at path "Phone" for model "Mongo_User"
+[2025-09-24T17:27:39.664Z] INFO: Server Active http://localhost:4000
+[2025-09-24T17:27:39.673Z] INFO: Database connected
+[2025-09-24T17:28:21.382Z] INFO: Server Active http://localhost:4000
+[2025-09-24T17:28:21.394Z] INFO: Database connected
+[2025-09-24T17:28:29.997Z] INFO: Server Active http://localhost:4000
+[2025-09-24T17:28:30.010Z] INFO: Database connected
+[2025-09-24T17:28:58.667Z] INFO: Server Active http://localhost:4000
+[2025-09-24T17:28:58.676Z] INFO: Database connected
+[2025-09-24T17:29:55.497Z] INFO: Server Active http://localhost:4000
+[2025-09-24T17:29:55.509Z] INFO: Database connected
+[2025-09-24T17:30:24.343Z] INFO: Server Active http://localhost:4000
+[2025-09-24T17:30:24.354Z] INFO: Database connected
+[2025-09-24T17:31:02.306Z] INFO: Server Active http://localhost:4000
+[2025-09-24T17:31:02.316Z] INFO: Database connected
+[2025-09-24T17:31:25.999Z] INFO: Server Active http://localhost:4000
+[2025-09-24T17:31:26.009Z] INFO: Database connected
+[2025-09-24T17:31:27.830Z] INFO: Texto encriptado
+[2025-09-24T17:31:27.831Z] INFO: Texto encriptado
+[2025-09-24T17:31:27.852Z] INFO: Usuario creado correctamente
+[2025-09-24T17:31:33.835Z] INFO: Texto encriptado
+[2025-09-24T17:31:33.836Z] INFO: Texto encriptado
+[2025-09-24T17:31:33.839Z] INFO: El teléfono ya está registrado
+[2025-09-24T17:31:43.506Z] INFO: Texto encriptado
+[2025-09-24T17:31:43.508Z] INFO: Texto encriptado
+[2025-09-24T17:31:43.515Z] INFO: Usuario creado correctamente
+[2025-09-24T17:32:30.050Z] INFO: Texto encriptado
+[2025-09-24T17:32:30.051Z] INFO: Texto encriptado
+[2025-09-24T17:32:30.060Z] INFO: El teléfono ya está registrado
+[2025-09-24T17:32:51.546Z] INFO: Texto encriptado
+[2025-09-24T17:32:51.547Z] INFO: Texto encriptado
+[2025-09-24T17:32:51.550Z] INFO: El teléfono ya está registrado
+[2025-09-24T17:33:27.236Z] INFO: Texto encriptado
+[2025-09-24T17:33:27.236Z] INFO: Texto encriptado
+[2025-09-24T17:33:27.238Z] INFO: El teléfono ya está registrado
+[2025-09-24T17:33:31.770Z] INFO: Texto encriptado
+[2025-09-24T17:33:31.771Z] INFO: Texto encriptado
+[2025-09-24T17:33:31.783Z] INFO: Usuario actualizado correctamente
+[2025-09-24T17:33:44.465Z] INFO: Texto encriptado
+[2025-09-24T17:33:44.466Z] INFO: Texto encriptado
+[2025-09-24T17:33:44.473Z] INFO: Usuario actualizado correctamente
+[2025-09-24T17:33:54.541Z] INFO: Texto encriptado
+[2025-09-24T17:33:54.542Z] INFO: Texto encriptado
+[2025-09-24T17:33:54.545Z] INFO: El teléfono ya está registrado
+[2025-09-24T17:33:57.589Z] INFO: Texto encriptado
+[2025-09-24T17:33:57.590Z] INFO: Texto encriptado
+[2025-09-24T17:33:57.595Z] INFO: Usuario actualizado correctamente
+[2025-09-24T21:01:24.221Z] INFO: Server Active http://localhost:4000
+[2025-09-24T21:01:26.750Z] INFO: Texto encriptado
+[2025-09-24T21:01:26.750Z] INFO: Texto encriptado
+[2025-09-24T21:01:36.758Z] ERROR: Operation `Users.findOne()` buffering timed out after 10000ms
+[2025-09-24T21:01:54.222Z] WARN: Retrying to connect to the database...
+[2025-09-24T21:02:34.238Z] WARN: Retrying to connect to the database...
+[2025-09-24T21:02:39.440Z] INFO: Texto encriptado
+[2025-09-24T21:02:39.441Z] INFO: Texto encriptado
+[2025-09-24T21:02:44.271Z] INFO: Database connected
+[2025-09-24T21:02:44.296Z] INFO: Usuario leído correctamente
+[2025-09-24T21:03:47.899Z] INFO: Server Active http://localhost:4000
+[2025-09-24T21:03:47.910Z] INFO: Database connected
+[2025-09-24T21:03:57.959Z] INFO: Texto encriptado
+[2025-09-24T21:03:57.961Z] INFO: Texto encriptado
+[2025-09-24T21:03:57.968Z] INFO: Credenciales correctas
+[2025-09-24T21:08:03.625Z] INFO: Server Active http://localhost:4000
+[2025-09-24T21:08:03.634Z] INFO: Database connected
+[2025-09-24T21:09:21.300Z] INFO: Server Active http://localhost:4000
+[2025-09-24T21:09:21.309Z] INFO: Database connected
+[2025-09-24T21:09:36.539Z] INFO: Server Active http://localhost:4000
+[2025-09-24T21:09:36.551Z] INFO: Database connected
+[2025-09-24T21:09:59.932Z] INFO: Server Active http://localhost:4000
+[2025-09-24T21:09:59.944Z] INFO: Database connected
+[2025-09-24T21:10:34.263Z] INFO: Server Active http://localhost:4000
+[2025-09-24T21:10:34.273Z] INFO: Database connected
+[2025-09-24T21:11:34.511Z] INFO: Server Active http://localhost:4000
+[2025-09-24T21:11:34.520Z] INFO: Database connected
+[2025-09-24T21:12:25.705Z] INFO: Server Active http://localhost:4000
+[2025-09-24T21:12:25.714Z] INFO: Database connected
+[2025-09-24T21:12:30.460Z] INFO: Server Active http://localhost:4000
+[2025-09-24T21:12:30.471Z] INFO: Database connected
+[2025-09-24T21:12:59.271Z] INFO: Texto encriptado
+[2025-09-24T21:12:59.282Z] INFO: Usuario encontrado
+[2025-09-24T21:13:05.695Z] INFO: Texto encriptado
+[2025-09-24T21:13:05.697Z] WARN: Usuario no encontrado
+[2025-09-24T21:13:09.121Z] INFO: Texto encriptado
+[2025-09-24T21:13:09.125Z] INFO: Usuario encontrado
+[2025-09-24T21:16:42.099Z] INFO: Server Active http://localhost:4000
+[2025-09-24T21:16:42.108Z] INFO: Database connected
+[2025-09-24T21:17:09.574Z] INFO: Server Active http://localhost:4000
+[2025-09-24T21:17:09.589Z] INFO: Database connected
+[2025-09-24T21:17:27.563Z] INFO: Server Active http://localhost:4000
+[2025-09-24T21:17:27.573Z] INFO: Database connected
+[2025-09-24T21:18:22.920Z] INFO: Usuario encontrado
+[2025-09-24T21:19:20.697Z] INFO: Server Active http://localhost:4000
+[2025-09-24T21:19:20.709Z] INFO: Database connected
+[2025-09-24T21:19:25.612Z] INFO: Usuario encontrado
+[2025-09-24T21:19:29.185Z] INFO: Usuario encontrado
+[2025-09-24T21:19:38.037Z] INFO: Texto encriptado
+[2025-09-24T21:19:38.041Z] INFO: Usuario encontrado
+[2025-09-24T21:20:45.565Z] INFO: Server Active http://localhost:4000
+[2025-09-24T21:20:45.576Z] INFO: Database connected
+[2025-09-24T21:21:02.055Z] INFO: Server Active http://localhost:4000
+[2025-09-24T21:21:02.064Z] INFO: Database connected
+[2025-09-24T21:23:58.327Z] INFO: Server Active http://localhost:4000
+[2025-09-24T21:23:58.336Z] INFO: Database connected
+[2025-09-24T21:24:48.595Z] INFO: Server Active http://localhost:4000
+[2025-09-24T21:24:48.604Z] INFO: Database connected
+[2025-09-24T21:25:01.074Z] INFO: Server Active http://localhost:4000
+[2025-09-24T21:25:01.090Z] INFO: Database connected
+[2025-09-24T21:25:03.646Z] INFO: Server Active http://localhost:4000
+[2025-09-24T21:25:03.655Z] INFO: Database connected
+[2025-09-24T21:25:12.716Z] INFO: Server Active http://localhost:4000
+[2025-09-24T21:25:12.725Z] INFO: Database connected
+[2025-09-24T21:25:41.483Z] INFO: Usuario encontrado
+[2025-09-24T21:25:41.484Z] INFO: Texto desencriptado
+[2025-09-24T21:25:41.484Z] INFO: Texto desencriptado
+[2025-09-24T21:26:27.369Z] INFO: Server Active http://localhost:4000
+[2025-09-24T21:26:27.378Z] INFO: Database connected
+[2025-09-24T21:26:27.939Z] INFO: Usuario encontrado
+[2025-09-24T21:26:27.941Z] INFO: Texto desencriptado
+[2025-09-24T21:26:27.942Z] INFO: Texto desencriptado
+[2025-09-24T21:26:31.018Z] INFO: Usuario encontrado
+[2025-09-24T21:26:31.019Z] INFO: Texto desencriptado
+[2025-09-24T21:26:31.020Z] INFO: Texto desencriptado
+[2025-09-24T21:26:32.195Z] INFO: Usuario encontrado
+[2025-09-24T21:26:32.196Z] INFO: Texto desencriptado
+[2025-09-24T21:26:32.196Z] INFO: Texto desencriptado
+[2025-09-24T21:26:33.008Z] INFO: Usuario encontrado
+[2025-09-24T21:26:33.009Z] INFO: Texto desencriptado
+[2025-09-24T21:26:33.009Z] INFO: Texto desencriptado
+[2025-09-24T21:27:22.448Z] INFO: Server Active http://localhost:4000
+[2025-09-24T21:27:22.458Z] INFO: Database connected
+[2025-09-24T21:27:23.693Z] INFO: Usuario encontrado
+[2025-09-24T21:27:23.695Z] INFO: Texto desencriptado
+[2025-09-24T21:27:23.696Z] INFO: Texto desencriptado
+[2025-09-24T21:27:25.916Z] INFO: Usuario encontrado
+[2025-09-24T21:27:25.917Z] INFO: Texto desencriptado
+[2025-09-24T21:27:25.917Z] INFO: Texto desencriptado
+[2025-09-24T21:30:11.902Z] INFO: Server Active http://localhost:4000
+[2025-09-24T21:30:11.913Z] INFO: Database connected
+[2025-09-24T21:30:25.313Z] INFO: Texto encriptado
+[2025-09-24T21:30:25.314Z] INFO: Texto encriptado
+[2025-09-24T21:30:25.341Z] INFO: Usuario actualizado correctamente
+[2025-09-24T21:34:05.464Z] INFO: Server Active http://localhost:4000
+[2025-09-24T21:34:05.473Z] INFO: Database connected
+[2025-09-24T21:34:55.397Z] INFO: Server Active http://localhost:4000
+[2025-09-24T21:34:55.409Z] INFO: Database connected
+[2025-09-24T21:35:12.920Z] INFO: Server Active http://localhost:4000
+[2025-09-24T21:35:12.930Z] INFO: Database connected
+[2025-09-24T21:43:04.492Z] INFO: Server Active http://localhost:4000
+[2025-09-24T21:43:04.501Z] INFO: Database connected
+[2025-09-24T21:43:28.427Z] INFO: Server Active http://localhost:4000
+[2025-09-24T21:43:28.436Z] INFO: Database connected
+[2025-09-24T21:43:36.958Z] INFO: Server Active http://localhost:4000
+[2025-09-24T21:43:36.967Z] INFO: Database connected
+[2025-09-24T21:43:45.009Z] INFO: Server Active http://localhost:4000
+[2025-09-24T21:43:45.018Z] INFO: Database connected
+[2025-09-24T21:55:57.653Z] INFO: Usuario creado correctamente
+[2025-09-24T21:55:57.657Z] INFO: El teléfono ya está registrado
+[2025-09-24T21:55:57.659Z] INFO: Usuario actualizado correctamente
+[2025-09-24T21:55:57.660Z] WARN: Usuario no encontrado
+[2025-09-24T22:00:12.372Z] INFO: Usuario creado correctamente
+[2025-09-24T22:00:12.377Z] INFO: El teléfono ya está registrado
+[2025-09-24T22:00:12.381Z] INFO: Usuario actualizado correctamente
+[2025-09-24T22:00:12.383Z] WARN: Usuario no encontrado
+[2025-09-24T22:00:12.385Z] INFO: Usuario encontrado
+[2025-09-24T22:00:12.394Z] WARN: Usuario no encontrado
+[2025-09-24T22:01:40.935Z] INFO: Usuario creado correctamente
+[2025-09-24T22:01:40.940Z] INFO: El teléfono ya está registrado
+[2025-09-24T22:01:40.942Z] INFO: Usuario actualizado correctamente
+[2025-09-24T22:01:40.944Z] WARN: Usuario no encontrado
+[2025-09-24T22:01:40.945Z] INFO: Usuario encontrado
+[2025-09-24T22:01:40.947Z] WARN: Usuario no encontrado
+[2025-09-24T22:54:55.534Z] INFO: Server Active http://localhost:4000
+[2025-09-24T22:55:25.542Z] WARN: Retrying to connect to the database...
+[2025-09-24T22:56:05.572Z] WARN: Retrying to connect to the database...
+[2025-09-24T22:56:29.074Z] INFO: Server Active http://localhost:4000
+[2025-09-24T22:56:59.075Z] WARN: Retrying to connect to the database...
+[2025-09-24T22:57:39.107Z] WARN: Retrying to connect to the database...
+[2025-09-24T22:58:19.123Z] WARN: Retrying to connect to the database...
+[2025-09-24T22:58:59.139Z] WARN: Retrying to connect to the database...
+[2025-09-24T22:59:39.155Z] WARN: Retrying to connect to the database...
+[2025-09-24T23:00:12.090Z] INFO: Server Active http://localhost:4000
+[2025-09-24T23:00:42.097Z] WARN: Retrying to connect to the database...
+[2025-09-24T23:00:43.869Z] INFO: Texto encriptado
+[2025-09-24T23:00:43.870Z] INFO: Texto encriptado
+[2025-09-24T23:00:53.890Z] ERROR: Operation `Users.findOne()` buffering timed out after 10000ms
+[2025-09-24T23:00:56.214Z] INFO: Database connected
+[2025-09-24T23:01:04.453Z] INFO: Texto encriptado
+[2025-09-24T23:01:04.453Z] INFO: Texto encriptado
+[2025-09-24T23:01:04.480Z] INFO: Usuario creado correctamente
+[2025-09-24T23:01:06.167Z] INFO: Texto encriptado
+[2025-09-24T23:01:06.168Z] INFO: Texto encriptado
+[2025-09-24T23:01:06.171Z] INFO: El teléfono ya está registrado
+[2025-09-24T23:01:13.930Z] INFO: Texto encriptado
+[2025-09-24T23:01:13.931Z] INFO: Texto encriptado
+[2025-09-24T23:01:13.933Z] INFO: El teléfono ya está registrado
+[2025-09-24T23:01:22.566Z] INFO: Texto encriptado
+[2025-09-24T23:01:22.566Z] INFO: Texto encriptado
+[2025-09-24T23:01:22.571Z] INFO: Usuario creado correctamente
+[2025-09-24T23:02:04.515Z] INFO: Server Active http://localhost:4000
+[2025-09-24T23:02:04.526Z] INFO: Database connected
+[2025-09-24T23:02:10.432Z] INFO: Texto encriptado
+[2025-09-24T23:02:10.432Z] INFO: Texto encriptado
+[2025-09-24T23:02:10.452Z] INFO: Usuario creado correctamente
+[2025-09-24T23:02:30.269Z] INFO: Texto encriptado
+[2025-09-24T23:02:30.269Z] INFO: Texto encriptado
+[2025-09-24T23:02:30.296Z] INFO: Usuario actualizado correctamente
+[2025-09-24T23:02:42.038Z] INFO: Usuario encontrado
+[2025-09-24T23:02:42.039Z] INFO: Texto desencriptado
+[2025-09-24T23:02:42.040Z] INFO: Texto desencriptado
+[2025-09-24T23:02:59.838Z] INFO: Texto encriptado
+[2025-09-24T23:02:59.839Z] INFO: Texto encriptado
+[2025-09-24T23:02:59.842Z] INFO: Credenciales correctas
+[2025-09-24T23:03:06.172Z] INFO: Texto encriptado
+[2025-09-24T23:03:06.172Z] INFO: Texto encriptado
+[2025-09-24T23:03:06.175Z] WARN: Usuario no encontrado
+[2025-09-24T23:03:16.873Z] INFO: Texto encriptado
+[2025-09-24T23:03:16.882Z] INFO: Usuario encontrado
+[2025-09-24T23:03:27.485Z] INFO: Usuario encontrado
+[2025-09-24T23:04:55.152Z] INFO: Server Active http://localhost:4000
+[2025-09-24T23:04:55.161Z] INFO: Database connected
+[2025-09-24T23:05:05.615Z] INFO: Server Active http://localhost:4000
+[2025-09-24T23:05:05.625Z] INFO: Database connected
+[2025-09-25T20:55:19.975Z] INFO: Usuario creado correctamente
+[2025-09-25T20:55:19.986Z] INFO: El teléfono ya está registrado
+[2025-09-25T20:55:19.994Z] INFO: Usuario actualizado correctamente
+[2025-09-25T20:55:19.995Z] WARN: Usuario no encontrado
+[2025-09-25T20:55:19.996Z] INFO: Usuario encontrado
+[2025-09-25T20:55:19.998Z] WARN: Usuario no encontrado
+[2025-09-25T20:55:19.999Z] INFO: Credenciales correctas
+[2025-09-25T20:55:20.000Z] WARN: Usuario no encontrado
+[2025-09-25T20:55:41.047Z] INFO: Usuario creado correctamente
+[2025-09-25T20:55:41.059Z] INFO: El teléfono ya está registrado
+[2025-09-25T20:55:41.061Z] INFO: Usuario actualizado correctamente
+[2025-09-25T20:55:41.062Z] WARN: Usuario no encontrado
+[2025-09-25T20:55:41.064Z] INFO: Usuario encontrado
+[2025-09-25T20:55:41.065Z] WARN: Usuario no encontrado
+[2025-09-25T20:55:41.066Z] INFO: Credenciales correctas
+[2025-09-25T20:55:41.067Z] WARN: Usuario no encontrado
+[2025-09-25T20:56:21.938Z] INFO: Usuario creado correctamente
+[2025-09-25T20:56:21.949Z] INFO: El teléfono ya está registrado
+[2025-09-25T20:56:21.950Z] INFO: Usuario actualizado correctamente
+[2025-09-25T20:56:21.951Z] WARN: Usuario no encontrado
+[2025-09-25T20:56:21.952Z] INFO: Usuario encontrado
+[2025-09-25T20:56:21.953Z] WARN: Usuario no encontrado
+[2025-09-25T20:56:21.955Z] INFO: Credenciales correctas
+[2025-09-25T20:56:21.956Z] WARN: Usuario no encontrado
+[2025-09-25T20:57:04.976Z] INFO: Usuario creado correctamente
+[2025-09-25T20:57:04.985Z] INFO: El teléfono ya está registrado
+[2025-09-25T20:57:04.988Z] INFO: Usuario actualizado correctamente
+[2025-09-25T20:57:04.991Z] WARN: Usuario no encontrado
+[2025-09-25T20:57:04.992Z] INFO: Usuario encontrado
+[2025-09-25T20:57:04.994Z] WARN: Usuario no encontrado
+[2025-09-25T20:57:04.995Z] INFO: Credenciales correctas
+[2025-09-25T20:57:04.996Z] WARN: Usuario no encontrado
+[2025-09-25T20:59:22.190Z] INFO: Usuario creado correctamente
+[2025-09-25T20:59:22.194Z] INFO: El teléfono ya está registrado
+[2025-09-25T20:59:22.195Z] INFO: Usuario actualizado correctamente
+[2025-09-25T20:59:22.196Z] WARN: Usuario no encontrado
+[2025-09-25T20:59:22.197Z] INFO: Usuario encontrado
+[2025-09-25T20:59:22.198Z] WARN: Usuario no encontrado
+[2025-09-25T20:59:22.199Z] INFO: Credenciales correctas
+[2025-09-25T20:59:22.200Z] WARN: Usuario no encontrado
+[2025-09-25T21:03:19.448Z] INFO: Usuario creado correctamente
+[2025-09-25T21:03:19.452Z] INFO: El teléfono ya está registrado
+[2025-09-25T21:03:19.453Z] INFO: Usuario actualizado correctamente
+[2025-09-25T21:03:19.454Z] WARN: Usuario no encontrado
+[2025-09-25T21:03:19.455Z] INFO: Usuario encontrado
+[2025-09-25T21:03:19.456Z] WARN: Usuario no encontrado
+[2025-09-25T21:03:19.457Z] INFO: Credenciales correctas
+[2025-09-25T21:03:19.458Z] WARN: Usuario no encontrado
+[2025-09-25T21:03:19.460Z] ERROR: user_db_ts_1.Mongo_User.findOne(...).select is not a function
+[2025-09-25T21:03:19.468Z] ERROR: user_db_ts_1.Mongo_User.findOne(...).select is not a function
+[2025-09-25T21:06:17.930Z] INFO: Usuario creado correctamente
+[2025-09-25T21:06:17.934Z] INFO: El teléfono ya está registrado
+[2025-09-25T21:06:17.936Z] INFO: Usuario actualizado correctamente
+[2025-09-25T21:06:17.938Z] WARN: Usuario no encontrado
+[2025-09-25T21:06:17.940Z] INFO: Usuario encontrado
+[2025-09-25T21:06:17.942Z] WARN: Usuario no encontrado
+[2025-09-25T21:06:17.943Z] INFO: Credenciales correctas
+[2025-09-25T21:06:17.945Z] WARN: Usuario no encontrado
+[2025-09-25T21:06:17.946Z] INFO: Usuario encontrado
+[2025-09-25T21:06:17.947Z] WARN: Usuario no encontrado
+[2025-09-25T21:08:48.414Z] INFO: Usuario creado correctamente
+[2025-09-25T21:08:48.418Z] INFO: El teléfono ya está registrado
+[2025-09-25T21:08:48.419Z] INFO: Usuario actualizado correctamente
+[2025-09-25T21:08:48.420Z] WARN: Usuario no encontrado
+[2025-09-25T21:08:48.422Z] INFO: Usuario encontrado
+[2025-09-25T21:08:48.423Z] WARN: Usuario no encontrado
+[2025-09-25T21:08:48.424Z] INFO: Credenciales correctas
+[2025-09-25T21:08:48.427Z] WARN: Usuario no encontrado
+[2025-09-25T21:08:48.428Z] INFO: Usuario encontrado
+[2025-09-25T21:08:48.430Z] WARN: Usuario no encontrado
+[2025-09-25T21:08:48.431Z] INFO: Usuario encontrado
+[2025-09-25T21:08:48.432Z] WARN: Usuario no encontrado
+[2025-09-25T21:12:18.529Z] INFO: Usuario creado correctamente
+[2025-09-25T21:12:18.534Z] ERROR: Error en encriptación
+[2025-09-25T21:12:18.536Z] INFO: El teléfono ya está registrado
+[2025-09-25T21:12:18.538Z] INFO: Usuario actualizado correctamente
+[2025-09-25T21:12:18.540Z] ERROR: Error en encriptación
+[2025-09-25T21:12:18.542Z] WARN: Usuario no encontrado
+[2025-09-25T21:12:18.544Z] INFO: Usuario encontrado
+[2025-09-25T21:12:18.547Z] INFO: Usuario creado correctamente
+[2025-09-25T21:12:18.559Z] WARN: Usuario no encontrado
+[2025-09-25T21:12:18.561Z] INFO: Credenciales correctas
+[2025-09-25T21:12:18.564Z] WARN: Usuario no encontrado
+[2025-09-25T21:12:18.565Z] INFO: Usuario encontrado
+[2025-09-25T21:12:18.567Z] WARN: Usuario no encontrado
+[2025-09-25T21:12:18.568Z] INFO: Usuario encontrado
+[2025-09-25T21:12:18.569Z] WARN: Usuario no encontrado
+[2025-09-25T21:12:57.647Z] INFO: Usuario creado correctamente
+[2025-09-25T21:12:57.652Z] ERROR: Error en encriptación
+[2025-09-25T21:12:57.655Z] INFO: El teléfono ya está registrado
+[2025-09-25T21:12:57.657Z] INFO: Usuario actualizado correctamente
+[2025-09-25T21:12:57.659Z] ERROR: Error en encriptación
+[2025-09-25T21:12:57.661Z] WARN: Usuario no encontrado
+[2025-09-25T21:12:57.662Z] INFO: Usuario encontrado
+[2025-09-25T21:12:57.663Z] INFO: Usuario encontrado
+[2025-09-25T21:12:57.663Z] ERROR: Error en encriptación
+[2025-09-25T21:12:57.664Z] WARN: Usuario no encontrado
+[2025-09-25T21:12:57.665Z] INFO: Credenciales correctas
+[2025-09-25T21:12:57.666Z] WARN: Usuario no encontrado
+[2025-09-25T21:12:57.667Z] INFO: Usuario encontrado
+[2025-09-25T21:12:57.668Z] WARN: Usuario no encontrado
+[2025-09-25T21:12:57.669Z] INFO: Usuario encontrado
+[2025-09-25T21:12:57.670Z] WARN: Usuario no encontrado
+[2025-09-25T21:13:50.667Z] INFO: Usuario creado correctamente
+[2025-09-25T21:13:50.672Z] ERROR: Error en encriptación
+[2025-09-25T21:13:50.674Z] INFO: El teléfono ya está registrado
+[2025-09-25T21:13:50.676Z] INFO: Usuario actualizado correctamente
+[2025-09-25T21:13:50.678Z] ERROR: Error en encriptación
+[2025-09-25T21:13:50.679Z] WARN: Usuario no encontrado
+[2025-09-25T21:13:50.680Z] INFO: Usuario encontrado
+[2025-09-25T21:13:50.681Z] INFO: Usuario encontrado
+[2025-09-25T21:13:50.682Z] ERROR: Error en encriptación
+[2025-09-25T21:13:50.683Z] WARN: Usuario no encontrado
+[2025-09-25T21:13:50.684Z] INFO: Credenciales correctas
+[2025-09-25T21:13:50.684Z] ERROR: Error en encriptación
+[2025-09-25T21:13:50.685Z] WARN: Usuario no encontrado
+[2025-09-25T21:13:50.686Z] INFO: Usuario encontrado
+[2025-09-25T21:13:50.688Z] WARN: Usuario no encontrado
+[2025-09-25T21:13:50.689Z] INFO: Usuario encontrado
+[2025-09-25T21:13:50.690Z] WARN: Usuario no encontrado
+[2025-09-25T21:14:53.886Z] INFO: Usuario creado correctamente
+[2025-09-25T21:14:53.893Z] ERROR: Error en encriptación
+[2025-09-25T21:14:53.895Z] INFO: El teléfono ya está registrado
+[2025-09-25T21:14:53.896Z] INFO: Usuario actualizado correctamente
+[2025-09-25T21:14:53.898Z] ERROR: Error en encriptación
+[2025-09-25T21:14:53.900Z] WARN: Usuario no encontrado
+[2025-09-25T21:14:53.901Z] INFO: Usuario encontrado
+[2025-09-25T21:14:53.902Z] INFO: Usuario encontrado
+[2025-09-25T21:14:53.902Z] ERROR: Error en encriptación
+[2025-09-25T21:14:53.903Z] WARN: Usuario no encontrado
+[2025-09-25T21:14:53.905Z] INFO: Credenciales correctas
+[2025-09-25T21:14:53.906Z] ERROR: Error en encriptación
+[2025-09-25T21:14:53.908Z] WARN: Usuario no encontrado
+[2025-09-25T21:14:53.909Z] INFO: Usuario encontrado
+[2025-09-25T21:14:53.910Z] ERROR: Error en encriptación
+[2025-09-25T21:14:53.911Z] WARN: Usuario no encontrado
+[2025-09-25T21:14:53.912Z] INFO: Usuario encontrado
+[2025-09-25T21:14:53.913Z] WARN: Usuario no encontrado
+[2025-09-25T21:15:14.109Z] INFO: Usuario creado correctamente
+[2025-09-25T21:15:14.116Z] ERROR: Error en encriptación
+[2025-09-25T21:15:14.118Z] INFO: El teléfono ya está registrado
+[2025-09-25T21:15:14.120Z] INFO: Usuario actualizado correctamente
+[2025-09-25T21:15:14.121Z] ERROR: Error en encriptación
+[2025-09-25T21:15:14.123Z] WARN: Usuario no encontrado
+[2025-09-25T21:15:14.125Z] INFO: Usuario encontrado
+[2025-09-25T21:15:14.127Z] INFO: Usuario encontrado
+[2025-09-25T21:15:14.128Z] ERROR: Error en encriptación
+[2025-09-25T21:15:14.129Z] WARN: Usuario no encontrado
+[2025-09-25T21:15:14.131Z] INFO: Credenciales correctas
+[2025-09-25T21:15:14.131Z] ERROR: Error en encriptación
+[2025-09-25T21:15:14.132Z] WARN: Contraseña incorrecta
+[2025-09-25T21:15:14.133Z] WARN: Usuario no encontrado
+[2025-09-25T21:15:14.134Z] INFO: Usuario encontrado
+[2025-09-25T21:15:14.135Z] ERROR: Error en encriptación
+[2025-09-25T21:15:14.136Z] WARN: Usuario no encontrado
+[2025-09-25T21:15:14.136Z] INFO: Usuario encontrado
+[2025-09-25T21:15:14.143Z] WARN: Usuario no encontrado
+[2025-09-25T21:17:20.279Z] INFO: Usuario creado correctamente
+[2025-09-25T21:17:20.283Z] ERROR: Error en encriptación
+[2025-09-25T21:17:20.285Z] INFO: El teléfono ya está registrado
+[2025-09-25T21:17:20.286Z] INFO: Usuario actualizado correctamente
+[2025-09-25T21:17:20.287Z] ERROR: Error en encriptación
+[2025-09-25T21:17:20.288Z] WARN: Usuario no encontrado
+[2025-09-25T21:17:20.290Z] INFO: Usuario encontrado
+[2025-09-25T21:17:20.291Z] INFO: Usuario encontrado
+[2025-09-25T21:17:20.291Z] ERROR: Error en encriptación
+[2025-09-25T21:17:20.292Z] WARN: Usuario no encontrado
+[2025-09-25T21:17:20.295Z] INFO: Credenciales correctas
+[2025-09-25T21:17:20.296Z] ERROR: Error en encriptación
+[2025-09-25T21:17:20.297Z] WARN: Contraseña incorrecta
+[2025-09-25T21:17:20.298Z] WARN: Usuario no encontrado
+[2025-09-25T21:17:20.298Z] INFO: Usuario encontrado
+[2025-09-25T21:17:20.300Z] ERROR: Error en encriptación
+[2025-09-25T21:17:20.300Z] WARN: Usuario no encontrado
+[2025-09-25T21:17:20.301Z] INFO: Usuario encontrado
+[2025-09-25T21:17:20.302Z] WARN: Usuario no encontrado
+[2025-09-25T21:40:35.914Z] INFO: Usuario creado correctamente
+[2025-09-25T21:40:35.918Z] ERROR: Error en encriptación
+[2025-09-25T21:40:35.919Z] INFO: El teléfono ya está registrado
+[2025-09-25T21:40:35.921Z] INFO: Usuario actualizado correctamente
+[2025-09-25T21:40:35.922Z] ERROR: Error en encriptación
+[2025-09-25T21:40:35.923Z] WARN: Usuario no encontrado
+[2025-09-25T21:40:35.924Z] INFO: Usuario encontrado
+[2025-09-25T21:40:35.925Z] INFO: Usuario encontrado
+[2025-09-25T21:40:35.925Z] ERROR: Error en encriptación
+[2025-09-25T21:40:35.927Z] WARN: Usuario no encontrado
+[2025-09-25T21:40:35.929Z] INFO: Credenciales correctas
+[2025-09-25T21:40:35.939Z] ERROR: Error en encriptación
+[2025-09-25T21:40:35.940Z] WARN: Contraseña incorrecta
+[2025-09-25T21:40:35.941Z] WARN: Usuario no encontrado
+[2025-09-25T21:40:35.941Z] INFO: Usuario encontrado
+[2025-09-25T21:40:35.943Z] ERROR: Error en encriptación
+[2025-09-25T21:40:35.944Z] WARN: Usuario no encontrado
+[2025-09-25T21:40:35.945Z] INFO: Usuario encontrado
+[2025-09-25T21:40:35.946Z] WARN: Usuario no encontrado
+[2025-09-25T21:41:28.315Z] INFO: Usuario creado correctamente
+[2025-09-25T21:41:28.319Z] ERROR: Error en encriptación
+[2025-09-25T21:41:28.321Z] INFO: El teléfono ya está registrado
+[2025-09-25T21:41:28.323Z] INFO: Usuario actualizado correctamente
+[2025-09-25T21:41:28.325Z] ERROR: Error en encriptación
+[2025-09-25T21:41:28.326Z] WARN: Usuario no encontrado
+[2025-09-25T21:41:28.327Z] INFO: Usuario encontrado
+[2025-09-25T21:41:28.329Z] INFO: Usuario encontrado
+[2025-09-25T21:41:28.329Z] ERROR: Error en encriptación
+[2025-09-25T21:41:28.330Z] WARN: Usuario no encontrado
+[2025-09-25T21:41:28.332Z] INFO: Credenciales correctas
+[2025-09-25T21:41:28.334Z] ERROR: Error en encriptación
+[2025-09-25T21:41:28.335Z] WARN: Contraseña incorrecta
+[2025-09-25T21:41:28.335Z] WARN: Usuario no encontrado
+[2025-09-25T21:41:28.336Z] INFO: Usuario encontrado
+[2025-09-25T21:41:28.337Z] ERROR: Error en encriptación
+[2025-09-25T21:41:28.346Z] WARN: Usuario no encontrado
+[2025-09-25T21:41:28.347Z] INFO: Usuario encontrado
+[2025-09-25T21:41:28.348Z] WARN: Usuario no encontrado
+[2025-09-25T21:47:52.904Z] INFO: Server Active http://localhost:4000
+[2025-09-25T21:47:52.914Z] INFO: Database connected
+[2025-09-25T21:48:38.813Z] INFO: Texto encriptado
+[2025-09-25T21:48:38.814Z] INFO: Texto encriptado
+[2025-09-25T21:48:38.847Z] INFO: Usuario creado correctamente
+[2025-09-25T21:48:48.724Z] INFO: Texto encriptado
+[2025-09-25T21:48:48.724Z] INFO: Texto encriptado
+[2025-09-25T21:48:48.730Z] INFO: El teléfono ya está registrado
+[2025-09-25T21:48:48.732Z] ERROR: Cannot set headers after they are sent to the client
+[2025-09-25T21:51:37.505Z] INFO: Server Active http://localhost:4000
+[2025-09-25T21:51:37.514Z] INFO: Database connected
+[2025-09-25T21:51:42.078Z] INFO: Texto encriptado
+[2025-09-25T21:51:42.079Z] INFO: Texto encriptado
+[2025-09-25T21:51:42.096Z] INFO: Usuario creado correctamente
+[2025-09-25T21:52:05.650Z] INFO: Texto encriptado
+[2025-09-25T21:52:05.652Z] INFO: Texto encriptado
+[2025-09-25T21:52:05.676Z] INFO: Usuario creado correctamente
+[2025-09-25T21:53:45.358Z] INFO: Server Active http://localhost:4000
+[2025-09-25T21:53:45.368Z] INFO: Database connected
+[2025-09-25T21:54:13.513Z] INFO: Server Active http://localhost:4000
+[2025-09-25T21:54:13.522Z] INFO: Database connected
+[2025-09-25T21:54:24.723Z] INFO: Texto encriptado
+[2025-09-25T21:54:24.724Z] INFO: Texto encriptado
+[2025-09-25T21:54:24.759Z] INFO: Usuario creado correctamente
+[2025-09-25T21:54:24.761Z] ERROR: Expected "payload" to be a plain object.
+[2025-09-25T21:55:05.582Z] INFO: Server Active http://localhost:4000
+[2025-09-25T21:55:05.591Z] INFO: Database connected
+[2025-09-25T21:55:37.689Z] INFO: Texto encriptado
+[2025-09-25T21:55:37.690Z] INFO: Texto encriptado
+[2025-09-25T21:55:37.717Z] INFO: Usuario creado correctamente
+[2025-09-25T21:55:37.720Z] INFO: Token creado correctamente
+[2025-09-25T21:57:11.439Z] INFO: Texto encriptado
+[2025-09-25T21:57:11.439Z] INFO: Texto encriptado
+[2025-09-25T21:57:11.446Z] WARN: Usuario no encontrado
+[2025-09-25T21:57:46.160Z] INFO: Texto encriptado
+[2025-09-25T21:57:46.161Z] INFO: Texto encriptado
+[2025-09-25T21:57:46.165Z] INFO: Credenciales correctas
+[2025-09-25T21:57:46.166Z] INFO: Token creado correctamente
+[2025-09-25T21:59:14.876Z] INFO: Server Active http://localhost:4000
+[2025-09-25T21:59:14.888Z] INFO: Database connected
+[2025-09-25T22:02:14.358Z] INFO: Server Active http://localhost:4000
+[2025-09-25T22:02:14.368Z] INFO: Database connected
+[2025-09-25T22:02:42.174Z] INFO: Server Active http://localhost:4000
+[2025-09-25T22:02:42.184Z] INFO: Database connected
+[2025-09-25T22:03:01.281Z] INFO: Server Active http://localhost:4000
+[2025-09-25T22:03:01.292Z] INFO: Database connected
+[2025-09-25T22:04:09.686Z] INFO: Server Active http://localhost:4000
+[2025-09-25T22:04:09.696Z] INFO: Database connected
+[2025-09-25T22:07:32.117Z] INFO: Server Active http://localhost:4000
+[2025-09-25T22:07:32.126Z] INFO: Database connected
+[2025-09-25T22:08:04.290Z] INFO: Server Active http://localhost:4000
+[2025-09-25T22:08:04.300Z] INFO: Database connected
+[2025-09-25T22:08:21.087Z] INFO: Token leído correctamente
+[2025-09-25T22:09:01.728Z] INFO: Server Active http://localhost:4000
+[2025-09-25T22:09:01.737Z] INFO: Database connected
+[2025-09-25T22:09:02.691Z] INFO: Token leído correctamente
+[2025-09-25T22:10:23.675Z] ERROR: jwt malformed
+[2025-09-25T22:18:46.097Z] INFO: Server Active http://localhost:4000
+[2025-09-25T22:18:46.107Z] INFO: Database connected
+[2025-09-25T22:18:59.457Z] INFO: Server Active http://localhost:4000
+[2025-09-25T22:18:59.467Z] INFO: Database connected
+[2025-09-25T22:19:13.033Z] INFO: Server Active http://localhost:4000
+[2025-09-25T22:19:13.042Z] INFO: Database connected
+[2025-09-25T22:19:18.852Z] INFO: Server Active http://localhost:4000
+[2025-09-25T22:19:18.861Z] INFO: Database connected
+[2025-09-25T22:19:55.831Z] INFO: Server Active http://localhost:4000
+[2025-09-25T22:19:55.840Z] INFO: Database connected
+[2025-09-25T22:21:04.345Z] INFO: Server Active http://localhost:4000
+[2025-09-25T22:21:04.354Z] INFO: Database connected
+[2025-09-25T22:21:46.576Z] INFO: Server Active http://localhost:4000
+[2025-09-25T22:21:46.586Z] INFO: Database connected
+[2025-09-25T22:22:19.964Z] INFO: Token leído correctamente
+[2025-09-25T22:22:25.002Z] ERROR: Bad control character in string literal in JSON at position 32 (line 1 column 33)
+[2025-09-25T22:22:50.582Z] INFO: Texto encriptado
+[2025-09-25T22:22:50.584Z] INFO: Texto encriptado
+[2025-09-25T22:22:50.609Z] INFO: Usuario creado correctamente
+[2025-09-25T22:22:50.616Z] INFO: Token creado correctamente
+[2025-09-25T22:23:09.585Z] INFO: Texto encriptado
+[2025-09-25T22:23:09.586Z] INFO: Texto encriptado
+[2025-09-25T22:23:09.590Z] INFO: Credenciales correctas
+[2025-09-25T22:23:09.593Z] INFO: Token creado correctamente
+[2025-09-25T22:23:23.588Z] INFO: Token leído correctamente
+[2025-09-25T22:24:27.160Z] INFO: Texto encriptado
+[2025-09-25T22:24:27.161Z] INFO: Texto encriptado
+[2025-09-25T22:24:27.192Z] INFO: Usuario actualizado correctamente
+[2025-09-25T22:24:37.660Z] INFO: Usuario encontrado
+[2025-09-25T22:24:37.662Z] INFO: Texto desencriptado
+[2025-09-25T22:24:37.662Z] INFO: Texto desencriptado
+[2025-09-25T22:24:52.505Z] INFO: Texto encriptado
+[2025-09-25T22:24:52.506Z] INFO: Texto encriptado
+[2025-09-25T22:24:52.511Z] INFO: Credenciales correctas
+[2025-09-25T22:24:52.514Z] INFO: Token creado correctamente
+[2025-09-25T22:25:15.955Z] INFO: Token leído correctamente
+[2025-09-25T22:25:33.261Z] INFO: Texto encriptado
+[2025-09-25T22:25:33.268Z] INFO: Usuario encontrado
+[2025-09-25T22:25:47.594Z] INFO: Usuario encontrado
+[2025-09-25T22:31:22.624Z] INFO: Usuario creado correctamente
+[2025-09-25T22:31:22.627Z] ERROR: Error en encriptación
+[2025-09-25T22:31:22.629Z] INFO: El teléfono ya está registrado
+[2025-09-25T22:31:22.630Z] INFO: Usuario actualizado correctamente
+[2025-09-25T22:31:22.631Z] ERROR: Error en encriptación
+[2025-09-25T22:31:22.632Z] WARN: Usuario no encontrado
+[2025-09-25T22:31:22.633Z] INFO: Usuario encontrado
+[2025-09-25T22:31:22.635Z] INFO: Usuario encontrado
+[2025-09-25T22:31:22.635Z] ERROR: Error en encriptación
+[2025-09-25T22:31:22.637Z] WARN: Usuario no encontrado
+[2025-09-25T22:31:22.638Z] INFO: Credenciales correctas
+[2025-09-25T22:31:22.639Z] ERROR: Error en encriptación
+[2025-09-25T22:31:22.640Z] WARN: Contraseña incorrecta
+[2025-09-25T22:31:22.640Z] WARN: Usuario no encontrado
+[2025-09-25T22:31:22.641Z] INFO: Usuario encontrado
+[2025-09-25T22:31:22.643Z] ERROR: Error en encriptación
+[2025-09-25T22:31:22.644Z] WARN: Usuario no encontrado
+[2025-09-25T22:31:22.644Z] INFO: Usuario encontrado
+[2025-09-25T22:31:22.645Z] WARN: Usuario no encontrado
+[2025-09-25T22:37:58.987Z] INFO: Usuario creado correctamente
+[2025-09-25T22:37:58.992Z] ERROR: Error en encriptación
+[2025-09-25T22:37:58.993Z] INFO: El teléfono ya está registrado
+[2025-09-25T22:37:58.994Z] INFO: Usuario actualizado correctamente
+[2025-09-25T22:37:58.995Z] ERROR: Error en encriptación
+[2025-09-25T22:37:58.996Z] WARN: Usuario no encontrado
+[2025-09-25T22:37:58.996Z] INFO: Usuario encontrado
+[2025-09-25T22:37:58.997Z] INFO: Usuario encontrado
+[2025-09-25T22:37:58.997Z] ERROR: Error en encriptación
+[2025-09-25T22:37:58.998Z] WARN: Usuario no encontrado
+[2025-09-25T22:37:58.999Z] INFO: Credenciales correctas
+[2025-09-25T22:37:58.999Z] ERROR: Error en encriptación
+[2025-09-25T22:37:59.000Z] WARN: Contraseña incorrecta
+[2025-09-25T22:37:59.000Z] WARN: Usuario no encontrado
+[2025-09-25T22:37:59.001Z] INFO: Usuario encontrado
+[2025-09-25T22:37:59.002Z] ERROR: Error en encriptación
+[2025-09-25T22:37:59.003Z] WARN: Usuario no encontrado
+[2025-09-25T22:37:59.003Z] INFO: Usuario encontrado
+[2025-09-25T22:37:59.004Z] WARN: Usuario no encontrado
+[2025-09-25T22:37:59.240Z] INFO: Token creado correctamente
+[2025-09-25T22:39:43.488Z] INFO: Usuario creado correctamente
+[2025-09-25T22:39:43.493Z] ERROR: Error en encriptación
+[2025-09-25T22:39:43.494Z] INFO: El teléfono ya está registrado
+[2025-09-25T22:39:43.495Z] INFO: Usuario actualizado correctamente
+[2025-09-25T22:39:43.496Z] ERROR: Error en encriptación
+[2025-09-25T22:39:43.497Z] WARN: Usuario no encontrado
+[2025-09-25T22:39:43.498Z] INFO: Usuario encontrado
+[2025-09-25T22:39:43.499Z] INFO: Usuario encontrado
+[2025-09-25T22:39:43.500Z] ERROR: Error en encriptación
+[2025-09-25T22:39:43.501Z] WARN: Usuario no encontrado
+[2025-09-25T22:39:43.502Z] INFO: Credenciales correctas
+[2025-09-25T22:39:43.503Z] ERROR: Error en encriptación
+[2025-09-25T22:39:43.503Z] WARN: Contraseña incorrecta
+[2025-09-25T22:39:43.504Z] WARN: Usuario no encontrado
+[2025-09-25T22:39:43.505Z] INFO: Usuario encontrado
+[2025-09-25T22:39:43.506Z] ERROR: Error en encriptación
+[2025-09-25T22:39:43.506Z] WARN: Usuario no encontrado
+[2025-09-25T22:39:43.507Z] INFO: Usuario encontrado
+[2025-09-25T22:39:43.512Z] WARN: Usuario no encontrado
+[2025-09-25T22:39:43.771Z] INFO: Token creado correctamente
+[2025-09-25T22:39:43.776Z] INFO: Token creado correctamente
+[2025-09-25T22:41:01.992Z] INFO: Usuario creado correctamente
+[2025-09-25T22:41:01.998Z] ERROR: Error en encriptación
+[2025-09-25T22:41:01.999Z] INFO: El teléfono ya está registrado
+[2025-09-25T22:41:02.000Z] INFO: Usuario actualizado correctamente
+[2025-09-25T22:41:02.001Z] ERROR: Error en encriptación
+[2025-09-25T22:41:02.002Z] WARN: Usuario no encontrado
+[2025-09-25T22:41:02.002Z] INFO: Usuario encontrado
+[2025-09-25T22:41:02.003Z] INFO: Usuario encontrado
+[2025-09-25T22:41:02.003Z] ERROR: Error en encriptación
+[2025-09-25T22:41:02.004Z] WARN: Usuario no encontrado
+[2025-09-25T22:41:02.005Z] INFO: Credenciales correctas
+[2025-09-25T22:41:02.005Z] ERROR: Error en encriptación
+[2025-09-25T22:41:02.006Z] WARN: Contraseña incorrecta
+[2025-09-25T22:41:02.006Z] WARN: Usuario no encontrado
+[2025-09-25T22:41:02.007Z] INFO: Usuario encontrado
+[2025-09-25T22:41:02.008Z] ERROR: Error en encriptación
+[2025-09-25T22:41:02.009Z] WARN: Usuario no encontrado
+[2025-09-25T22:41:02.009Z] INFO: Usuario encontrado
+[2025-09-25T22:41:02.010Z] WARN: Usuario no encontrado
+[2025-09-25T22:41:02.262Z] INFO: Token creado correctamente
+[2025-09-25T22:41:02.267Z] ERROR: Falló la creación
+[2025-09-25T22:43:39.713Z] INFO: Usuario creado correctamente
+[2025-09-25T22:43:39.718Z] ERROR: Error en encriptación
+[2025-09-25T22:43:39.719Z] INFO: El teléfono ya está registrado
+[2025-09-25T22:43:39.720Z] INFO: Usuario actualizado correctamente
+[2025-09-25T22:43:39.721Z] ERROR: Error en encriptación
+[2025-09-25T22:43:39.722Z] WARN: Usuario no encontrado
+[2025-09-25T22:43:39.723Z] INFO: Usuario encontrado
+[2025-09-25T22:43:39.724Z] INFO: Usuario encontrado
+[2025-09-25T22:43:39.724Z] ERROR: Error en encriptación
+[2025-09-25T22:43:39.726Z] WARN: Usuario no encontrado
+[2025-09-25T22:43:39.728Z] INFO: Credenciales correctas
+[2025-09-25T22:43:39.729Z] ERROR: Error en encriptación
+[2025-09-25T22:43:39.730Z] WARN: Contraseña incorrecta
+[2025-09-25T22:43:39.731Z] WARN: Usuario no encontrado
+[2025-09-25T22:43:39.731Z] INFO: Usuario encontrado
+[2025-09-25T22:43:39.732Z] ERROR: Error en encriptación
+[2025-09-25T22:43:39.733Z] WARN: Usuario no encontrado
+[2025-09-25T22:43:39.734Z] INFO: Usuario encontrado
+[2025-09-25T22:43:39.739Z] WARN: Usuario no encontrado
+[2025-09-25T22:43:39.990Z] INFO: Token creado correctamente
+[2025-09-25T22:43:39.995Z] ERROR: Falló la creación
+[2025-09-25T22:43:39.996Z] INFO: Token leído correctamente
+[2025-09-25T22:44:36.144Z] INFO: Usuario creado correctamente
+[2025-09-25T22:44:36.148Z] ERROR: Error en encriptación
+[2025-09-25T22:44:36.149Z] INFO: El teléfono ya está registrado
+[2025-09-25T22:44:36.150Z] INFO: Usuario actualizado correctamente
+[2025-09-25T22:44:36.151Z] ERROR: Error en encriptación
+[2025-09-25T22:44:36.152Z] WARN: Usuario no encontrado
+[2025-09-25T22:44:36.152Z] INFO: Usuario encontrado
+[2025-09-25T22:44:36.154Z] INFO: Usuario encontrado
+[2025-09-25T22:44:36.154Z] ERROR: Error en encriptación
+[2025-09-25T22:44:36.155Z] WARN: Usuario no encontrado
+[2025-09-25T22:44:36.156Z] INFO: Credenciales correctas
+[2025-09-25T22:44:36.157Z] ERROR: Error en encriptación
+[2025-09-25T22:44:36.157Z] WARN: Contraseña incorrecta
+[2025-09-25T22:44:36.158Z] WARN: Usuario no encontrado
+[2025-09-25T22:44:36.159Z] INFO: Usuario encontrado
+[2025-09-25T22:44:36.160Z] ERROR: Error en encriptación
+[2025-09-25T22:44:36.165Z] WARN: Usuario no encontrado
+[2025-09-25T22:44:36.167Z] INFO: Usuario encontrado
+[2025-09-25T22:44:36.168Z] WARN: Usuario no encontrado
+[2025-09-25T22:46:29.528Z] INFO: Usuario creado correctamente
+[2025-09-25T22:46:29.532Z] ERROR: Error en encriptación
+[2025-09-25T22:46:29.533Z] INFO: El teléfono ya está registrado
+[2025-09-25T22:46:29.534Z] INFO: Usuario actualizado correctamente
+[2025-09-25T22:46:29.535Z] ERROR: Error en encriptación
+[2025-09-25T22:46:29.536Z] WARN: Usuario no encontrado
+[2025-09-25T22:46:29.537Z] INFO: Usuario encontrado
+[2025-09-25T22:46:29.538Z] INFO: Usuario encontrado
+[2025-09-25T22:46:29.538Z] ERROR: Error en encriptación
+[2025-09-25T22:46:29.539Z] WARN: Usuario no encontrado
+[2025-09-25T22:46:29.539Z] INFO: Credenciales correctas
+[2025-09-25T22:46:29.540Z] ERROR: Error en encriptación
+[2025-09-25T22:46:29.540Z] WARN: Contraseña incorrecta
+[2025-09-25T22:46:29.541Z] WARN: Usuario no encontrado
+[2025-09-25T22:46:29.542Z] INFO: Usuario encontrado
+[2025-09-25T22:46:29.543Z] ERROR: Error en encriptación
+[2025-09-25T22:46:29.544Z] WARN: Usuario no encontrado
+[2025-09-25T22:46:29.550Z] INFO: Usuario encontrado
+[2025-09-25T22:46:29.551Z] WARN: Usuario no encontrado
+[2025-09-25T22:46:29.805Z] INFO: Token creado correctamente
+[2025-09-25T22:46:29.810Z] ERROR: Falló la creación
+[2025-09-25T22:46:29.811Z] INFO: Token leído correctamente
+[2025-09-25T22:46:29.812Z] ERROR: Token inválido
+[2025-09-27T16:09:05.698Z] INFO: Server Active http://localhost:4000
+[2025-09-27T16:09:07.241Z] INFO: Database connected
+[2025-09-27T16:09:51.769Z] INFO: Texto encriptado
+[2025-09-27T16:09:51.769Z] INFO: Texto encriptado
+[2025-09-27T16:09:51.821Z] INFO: Usuario creado correctamente
+[2025-09-27T16:09:51.825Z] INFO: Token creado correctamente
+[2025-09-27T16:10:04.987Z] INFO: Texto encriptado
+[2025-09-27T16:10:04.987Z] INFO: Texto encriptado
+[2025-09-27T16:10:04.994Z] INFO: Usuario creado correctamente
+[2025-09-27T16:10:04.998Z] INFO: Token creado correctamente
+[2025-09-27T16:11:08.763Z] INFO: Chat creado correctamente
+[2025-09-27T16:13:24.099Z] INFO: Chat creado correctamente
+[2025-09-27T16:15:05.724Z] INFO: Server Active http://localhost:4000
+[2025-09-27T16:15:05.733Z] INFO: Database connected
+[2025-09-27T16:15:07.653Z] INFO: Chat creado correctamente
+[2025-09-27T16:23:17.523Z] INFO: Server Active http://localhost:4000
+[2025-09-27T16:23:17.534Z] INFO: Database connected
+[2025-09-27T16:24:09.681Z] INFO: Server Active http://localhost:4000
+[2025-09-27T16:24:09.690Z] INFO: Database connected
+[2025-09-27T16:25:05.563Z] INFO: Server Active http://localhost:4000
+[2025-09-27T16:25:05.573Z] INFO: Database connected
+[2025-09-27T16:26:40.473Z] INFO: Server Active http://localhost:4000
+[2025-09-27T16:26:40.481Z] INFO: Database connected
+[2025-09-27T16:28:02.487Z] INFO: Server Active http://localhost:4000
+[2025-09-27T16:28:02.501Z] INFO: Database connected
+[2025-09-27T16:28:12.932Z] ERROR: Mongo_Chat validation failed: Messages.2.sender: Path `sender` is required.
+[2025-09-27T16:29:08.109Z] INFO: Server Active http://localhost:4000
+[2025-09-27T16:29:08.122Z] INFO: Database connected
+[2025-09-27T16:29:16.277Z] ERROR: Mongo_Chat validation failed: Messages.2._id: Cast to ObjectId failed for value "[
+  {
+    sender: '68d80c4ffc6b9a80377dba70',
+    content: 'string',
+    image: 'string'
+  }
+]" (type Array) at path "_id" because of "BSONError", Messages.2.sender: Path `sender` is required.
+[2025-09-27T16:31:16.651Z] INFO: Server Active http://localhost:4000
+[2025-09-27T16:31:16.661Z] INFO: Database connected
+[2025-09-27T16:31:26.225Z] INFO: Mensaje creado correctamente
+[2025-09-27T16:32:05.708Z] INFO: Mensaje creado correctamente
+[2025-09-27T16:37:20.309Z] INFO: Server Active http://localhost:4000
+[2025-09-27T16:37:20.319Z] INFO: Database connected
+[2025-09-27T16:37:53.290Z] INFO: Server Active http://localhost:4000
+[2025-09-27T16:37:53.299Z] INFO: Database connected
+[2025-09-27T16:38:58.484Z] INFO: Server Active http://localhost:4000
+[2025-09-27T16:38:58.494Z] INFO: Database connected
+[2025-09-27T16:39:27.069Z] INFO: Server Active http://localhost:4000
+[2025-09-27T16:39:27.078Z] INFO: Database connected
+[2025-09-27T16:41:48.318Z] INFO: Server Active http://localhost:4000
+[2025-09-27T16:41:48.326Z] INFO: Database connected
+[2025-09-27T16:42:02.867Z] INFO: Server Active http://localhost:4000
+[2025-09-27T16:42:02.878Z] INFO: Database connected
+[2025-09-27T16:42:27.994Z] INFO: Mensaje eliminado correctamente
+[2025-09-27T16:42:40.144Z] ERROR: Cast to ObjectId failed for value "68d81185ea210cd5516fd32lb" (type string) at path "_id" because of "BSONError"
+[2025-09-27T16:44:29.329Z] INFO: Server Active http://localhost:4000
+[2025-09-27T16:44:29.340Z] INFO: Database connected
+[2025-09-27T16:45:16.073Z] INFO: Server Active http://localhost:4000
+[2025-09-27T16:45:16.082Z] INFO: Database connected
+[2025-09-27T16:45:32.180Z] INFO: Server Active http://localhost:4000
+[2025-09-27T16:45:32.190Z] INFO: Database connected
+[2025-09-27T16:45:47.975Z] INFO: Server Active http://localhost:4000
+[2025-09-27T16:45:47.984Z] INFO: Database connected
+[2025-09-27T16:46:45.489Z] INFO: Server Active http://localhost:4000
+[2025-09-27T16:46:45.498Z] INFO: Database connected
+[2025-09-27T16:46:59.439Z] INFO: Server Active http://localhost:4000
+[2025-09-27T16:46:59.448Z] INFO: Database connected
+[2025-09-27T16:47:11.026Z] INFO: Chat eliminado correctamente
+[2025-09-27T16:51:06.482Z] INFO: Server Active http://localhost:4000
+[2025-09-27T16:51:06.493Z] INFO: Database connected
+[2025-09-27T17:00:01.006Z] INFO: Server Active http://localhost:4000
+[2025-09-27T17:00:01.015Z] INFO: Database connected
+[2025-09-27T17:04:27.213Z] INFO: Server Active http://localhost:4000
+[2025-09-27T17:04:27.222Z] INFO: Database connected
+[2025-09-27T17:05:34.069Z] INFO: Server Active http://localhost:4000
+[2025-09-27T17:05:34.078Z] INFO: Database connected
+[2025-09-27T17:05:48.887Z] INFO: Server Active http://localhost:4000
+[2025-09-27T17:05:48.897Z] INFO: Database connected
+[2025-09-27T17:06:07.494Z] INFO: Chat leído correctamente
+[2025-09-27T17:06:35.952Z] INFO: Mensaje eliminado correctamente
+[2025-09-27T17:06:40.908Z] INFO: Chat leído correctamente
+[2025-09-27T17:18:07.256Z] INFO: Server Active http://localhost:4000
+[2025-09-27T17:18:07.269Z] INFO: Database connected
+[2025-09-27T17:18:23.041Z] INFO: Server Active http://localhost:4000
+[2025-09-27T17:18:23.052Z] INFO: Database connected
+[2025-09-27T17:25:51.394Z] INFO: Server Active http://localhost:4000
+[2025-09-27T17:25:51.404Z] INFO: Database connected
+[2025-09-27T17:26:50.398Z] INFO: Server Active http://localhost:4000
+[2025-09-27T17:26:50.409Z] INFO: Database connected
+[2025-09-27T17:27:00.969Z] INFO: Token creado correctamente
+[2025-09-27T17:27:00.975Z] ERROR: Falló la creación
+[2025-09-27T17:27:00.976Z] INFO: Token leído correctamente
+[2025-09-27T17:27:00.977Z] ERROR: Token inválido
+[2025-09-27T17:27:01.509Z] INFO: Usuario creado correctamente
+[2025-09-27T17:27:01.514Z] ERROR: Error en encriptación
+[2025-09-27T17:27:01.515Z] INFO: El teléfono ya está registrado
+[2025-09-27T17:27:01.516Z] INFO: Usuario actualizado correctamente
+[2025-09-27T17:27:01.517Z] ERROR: Error en encriptación
+[2025-09-27T17:27:01.517Z] WARN: Usuario no encontrado
+[2025-09-27T17:27:01.518Z] INFO: Usuario encontrado
+[2025-09-27T17:27:01.519Z] INFO: Usuario encontrado
+[2025-09-27T17:27:01.519Z] ERROR: Error en encriptación
+[2025-09-27T17:27:01.520Z] WARN: Usuario no encontrado
+[2025-09-27T17:27:01.521Z] INFO: Credenciales correctas
+[2025-09-27T17:27:01.522Z] ERROR: Error en encriptación
+[2025-09-27T17:27:01.522Z] WARN: Contraseña incorrecta
+[2025-09-27T17:27:01.523Z] WARN: Usuario no encontrado
+[2025-09-27T17:27:01.523Z] INFO: Usuario encontrado
+[2025-09-27T17:27:01.524Z] ERROR: Error en encriptación
+[2025-09-27T17:27:01.525Z] WARN: Usuario no encontrado
+[2025-09-27T17:27:01.531Z] INFO: Usuario encontrado
+[2025-09-27T17:27:01.531Z] WARN: Usuario no encontrado
+[2025-09-27T17:27:02.718Z] INFO: Chat creado correctamente
+[2025-09-27T17:31:21.116Z] INFO: Token creado correctamente
+[2025-09-27T17:31:21.121Z] ERROR: Falló la creación
+[2025-09-27T17:31:21.123Z] INFO: Token leído correctamente
+[2025-09-27T17:31:21.124Z] ERROR: Token inválido
+[2025-09-27T17:31:21.482Z] INFO: Usuario creado correctamente
+[2025-09-27T17:31:21.488Z] ERROR: Error en encriptación
+[2025-09-27T17:31:21.489Z] INFO: El teléfono ya está registrado
+[2025-09-27T17:31:21.489Z] INFO: Usuario actualizado correctamente
+[2025-09-27T17:31:21.490Z] ERROR: Error en encriptación
+[2025-09-27T17:31:21.491Z] WARN: Usuario no encontrado
+[2025-09-27T17:31:21.492Z] INFO: Usuario encontrado
+[2025-09-27T17:31:21.493Z] INFO: Usuario encontrado
+[2025-09-27T17:31:21.493Z] ERROR: Error en encriptación
+[2025-09-27T17:31:21.494Z] WARN: Usuario no encontrado
+[2025-09-27T17:31:21.494Z] INFO: Credenciales correctas
+[2025-09-27T17:31:21.495Z] ERROR: Error en encriptación
+[2025-09-27T17:31:21.495Z] WARN: Contraseña incorrecta
+[2025-09-27T17:31:21.496Z] WARN: Usuario no encontrado
+[2025-09-27T17:31:21.497Z] INFO: Usuario encontrado
+[2025-09-27T17:31:21.502Z] ERROR: Error en encriptación
+[2025-09-27T17:31:21.502Z] WARN: Usuario no encontrado
+[2025-09-27T17:31:21.503Z] INFO: Usuario encontrado
+[2025-09-27T17:31:21.504Z] WARN: Usuario no encontrado
+[2025-09-27T17:31:22.763Z] INFO: Chat creado correctamente
+[2025-09-27T17:31:22.772Z] INFO: Chat leído correctamente
+[2025-09-27T17:32:34.519Z] INFO: Token creado correctamente
+[2025-09-27T17:32:34.525Z] ERROR: Falló la creación
+[2025-09-27T17:32:34.526Z] INFO: Token leído correctamente
+[2025-09-27T17:32:34.527Z] ERROR: Token inválido
+[2025-09-27T17:32:34.915Z] INFO: Usuario creado correctamente
+[2025-09-27T17:32:34.919Z] ERROR: Error en encriptación
+[2025-09-27T17:32:34.920Z] INFO: El teléfono ya está registrado
+[2025-09-27T17:32:34.921Z] INFO: Usuario actualizado correctamente
+[2025-09-27T17:32:34.922Z] ERROR: Error en encriptación
+[2025-09-27T17:32:34.922Z] WARN: Usuario no encontrado
+[2025-09-27T17:32:34.923Z] INFO: Usuario encontrado
+[2025-09-27T17:32:34.924Z] INFO: Usuario encontrado
+[2025-09-27T17:32:34.924Z] ERROR: Error en encriptación
+[2025-09-27T17:32:34.925Z] WARN: Usuario no encontrado
+[2025-09-27T17:32:34.926Z] INFO: Credenciales correctas
+[2025-09-27T17:32:34.927Z] ERROR: Error en encriptación
+[2025-09-27T17:32:34.928Z] WARN: Contraseña incorrecta
+[2025-09-27T17:32:34.929Z] WARN: Usuario no encontrado
+[2025-09-27T17:32:34.930Z] INFO: Usuario encontrado
+[2025-09-27T17:32:34.931Z] ERROR: Error en encriptación
+[2025-09-27T17:32:34.931Z] WARN: Usuario no encontrado
+[2025-09-27T17:32:34.932Z] INFO: Usuario encontrado
+[2025-09-27T17:32:34.937Z] WARN: Usuario no encontrado
+[2025-09-27T17:32:36.240Z] INFO: Chat creado correctamente
+[2025-09-27T17:32:36.249Z] INFO: Chat leído correctamente
+[2025-09-27T17:34:14.271Z] INFO: Token creado correctamente
+[2025-09-27T17:34:14.276Z] ERROR: Falló la creación
+[2025-09-27T17:34:14.278Z] INFO: Token leído correctamente
+[2025-09-27T17:34:14.279Z] ERROR: Token inválido
+[2025-09-27T17:34:14.665Z] INFO: Usuario creado correctamente
+[2025-09-27T17:34:14.670Z] ERROR: Error en encriptación
+[2025-09-27T17:34:14.671Z] INFO: El teléfono ya está registrado
+[2025-09-27T17:34:14.672Z] INFO: Usuario actualizado correctamente
+[2025-09-27T17:34:14.673Z] ERROR: Error en encriptación
+[2025-09-27T17:34:14.674Z] WARN: Usuario no encontrado
+[2025-09-27T17:34:14.674Z] INFO: Usuario encontrado
+[2025-09-27T17:34:14.675Z] INFO: Usuario encontrado
+[2025-09-27T17:34:14.676Z] ERROR: Error en encriptación
+[2025-09-27T17:34:14.676Z] WARN: Usuario no encontrado
+[2025-09-27T17:34:14.677Z] INFO: Credenciales correctas
+[2025-09-27T17:34:14.678Z] ERROR: Error en encriptación
+[2025-09-27T17:34:14.678Z] WARN: Contraseña incorrecta
+[2025-09-27T17:34:14.679Z] WARN: Usuario no encontrado
+[2025-09-27T17:34:14.680Z] INFO: Usuario encontrado
+[2025-09-27T17:34:14.681Z] ERROR: Error en encriptación
+[2025-09-27T17:34:14.682Z] WARN: Usuario no encontrado
+[2025-09-27T17:34:14.682Z] INFO: Usuario encontrado
+[2025-09-27T17:34:14.690Z] WARN: Usuario no encontrado
+[2025-09-27T17:34:15.987Z] INFO: Chat creado correctamente
+[2025-09-27T17:34:15.997Z] INFO: Chat leído correctamente
+[2025-09-27T17:34:15.997Z] ERROR: El id del chat no existe
+[2025-09-27T17:36:56.587Z] INFO: Token creado correctamente
+[2025-09-27T17:36:56.593Z] ERROR: Falló la creación
+[2025-09-27T17:36:56.595Z] INFO: Token leído correctamente
+[2025-09-27T17:36:56.596Z] ERROR: Token inválido
+[2025-09-27T17:36:57.015Z] INFO: Usuario creado correctamente
+[2025-09-27T17:36:57.021Z] ERROR: Error en encriptación
+[2025-09-27T17:36:57.022Z] INFO: El teléfono ya está registrado
+[2025-09-27T17:36:57.023Z] INFO: Usuario actualizado correctamente
+[2025-09-27T17:36:57.024Z] ERROR: Error en encriptación
+[2025-09-27T17:36:57.025Z] WARN: Usuario no encontrado
+[2025-09-27T17:36:57.026Z] INFO: Usuario encontrado
+[2025-09-27T17:36:57.027Z] INFO: Usuario encontrado
+[2025-09-27T17:36:57.027Z] ERROR: Error en encriptación
+[2025-09-27T17:36:57.028Z] WARN: Usuario no encontrado
+[2025-09-27T17:36:57.028Z] INFO: Credenciales correctas
+[2025-09-27T17:36:57.029Z] ERROR: Error en encriptación
+[2025-09-27T17:36:57.029Z] WARN: Contraseña incorrecta
+[2025-09-27T17:36:57.030Z] WARN: Usuario no encontrado
+[2025-09-27T17:36:57.031Z] INFO: Usuario encontrado
+[2025-09-27T17:36:57.032Z] ERROR: Error en encriptación
+[2025-09-27T17:36:57.038Z] WARN: Usuario no encontrado
+[2025-09-27T17:36:57.039Z] INFO: Usuario encontrado
+[2025-09-27T17:36:57.039Z] WARN: Usuario no encontrado
+[2025-09-27T17:36:58.337Z] INFO: Chat creado correctamente
+[2025-09-27T17:36:58.348Z] INFO: Chat leído correctamente
+[2025-09-27T17:36:58.349Z] ERROR: El id del chat no existe
+[2025-09-27T17:36:58.350Z] ERROR: Cannot read properties of undefined (reading 'push')
+[2025-09-27T17:36:58.355Z] ERROR: El id del chat no existe
+[2025-09-27T17:38:44.229Z] INFO: Token creado correctamente
+[2025-09-27T17:38:44.234Z] ERROR: Falló la creación
+[2025-09-27T17:38:44.235Z] INFO: Token leído correctamente
+[2025-09-27T17:38:44.236Z] ERROR: Token inválido
+[2025-09-27T17:38:44.621Z] INFO: Usuario creado correctamente
+[2025-09-27T17:38:44.626Z] ERROR: Error en encriptación
+[2025-09-27T17:38:44.627Z] INFO: El teléfono ya está registrado
+[2025-09-27T17:38:44.628Z] INFO: Usuario actualizado correctamente
+[2025-09-27T17:38:44.628Z] ERROR: Error en encriptación
+[2025-09-27T17:38:44.629Z] WARN: Usuario no encontrado
+[2025-09-27T17:38:44.635Z] INFO: Usuario encontrado
+[2025-09-27T17:38:44.636Z] INFO: Usuario encontrado
+[2025-09-27T17:38:44.637Z] ERROR: Error en encriptación
+[2025-09-27T17:38:44.637Z] WARN: Usuario no encontrado
+[2025-09-27T17:38:44.638Z] INFO: Credenciales correctas
+[2025-09-27T17:38:44.639Z] ERROR: Error en encriptación
+[2025-09-27T17:38:44.640Z] WARN: Contraseña incorrecta
+[2025-09-27T17:38:44.641Z] WARN: Usuario no encontrado
+[2025-09-27T17:38:44.642Z] INFO: Usuario encontrado
+[2025-09-27T17:38:44.643Z] ERROR: Error en encriptación
+[2025-09-27T17:38:44.644Z] WARN: Usuario no encontrado
+[2025-09-27T17:38:44.644Z] INFO: Usuario encontrado
+[2025-09-27T17:38:44.645Z] WARN: Usuario no encontrado
+[2025-09-27T17:38:45.925Z] INFO: Chat creado correctamente
+[2025-09-27T17:38:45.933Z] INFO: Chat leído correctamente
+[2025-09-27T17:38:45.934Z] ERROR: El id del chat no existe
+[2025-09-27T17:38:45.935Z] INFO: Mensaje creado correctamente
+[2025-09-27T17:38:45.937Z] ERROR: El id del chat no existe
+[2025-09-27T17:40:58.347Z] INFO: Token creado correctamente
+[2025-09-27T17:40:58.353Z] ERROR: Falló la creación
+[2025-09-27T17:40:58.354Z] INFO: Token leído correctamente
+[2025-09-27T17:40:58.355Z] ERROR: Token inválido
+[2025-09-27T17:40:58.750Z] INFO: Usuario creado correctamente
+[2025-09-27T17:40:58.754Z] ERROR: Error en encriptación
+[2025-09-27T17:40:58.755Z] INFO: El teléfono ya está registrado
+[2025-09-27T17:40:58.756Z] INFO: Usuario actualizado correctamente
+[2025-09-27T17:40:58.757Z] ERROR: Error en encriptación
+[2025-09-27T17:40:58.757Z] WARN: Usuario no encontrado
+[2025-09-27T17:40:58.758Z] INFO: Usuario encontrado
+[2025-09-27T17:40:58.759Z] INFO: Usuario encontrado
+[2025-09-27T17:40:58.759Z] ERROR: Error en encriptación
+[2025-09-27T17:40:58.760Z] WARN: Usuario no encontrado
+[2025-09-27T17:40:58.761Z] INFO: Credenciales correctas
+[2025-09-27T17:40:58.762Z] ERROR: Error en encriptación
+[2025-09-27T17:40:58.763Z] WARN: Contraseña incorrecta
+[2025-09-27T17:40:58.763Z] WARN: Usuario no encontrado
+[2025-09-27T17:40:58.764Z] INFO: Usuario encontrado
+[2025-09-27T17:40:58.765Z] ERROR: Error en encriptación
+[2025-09-27T17:40:58.765Z] WARN: Usuario no encontrado
+[2025-09-27T17:40:58.774Z] INFO: Usuario encontrado
+[2025-09-27T17:40:58.774Z] WARN: Usuario no encontrado
+[2025-09-27T17:41:00.157Z] INFO: Chat creado correctamente
+[2025-09-27T17:41:00.167Z] INFO: Chat leído correctamente
+[2025-09-27T17:41:00.168Z] ERROR: El id del chat no existe
+[2025-09-27T17:41:00.169Z] INFO: Mensaje creado correctamente
+[2025-09-27T17:41:00.170Z] ERROR: El id del chat no existe
+[2025-09-27T17:41:00.171Z] INFO: Mensaje eliminado correctamente
+[2025-09-27T17:41:00.172Z] ERROR: El id del chat no existe
+[2025-09-27T17:42:32.757Z] INFO: Token creado correctamente
+[2025-09-27T17:42:32.763Z] ERROR: Falló la creación
+[2025-09-27T17:42:32.765Z] INFO: Token leído correctamente
+[2025-09-27T17:42:32.766Z] ERROR: Token inválido
+[2025-09-27T17:42:33.172Z] INFO: Usuario creado correctamente
+[2025-09-27T17:42:33.180Z] ERROR: Error en encriptación
+[2025-09-27T17:42:33.181Z] INFO: El teléfono ya está registrado
+[2025-09-27T17:42:33.182Z] INFO: Usuario actualizado correctamente
+[2025-09-27T17:42:33.183Z] ERROR: Error en encriptación
+[2025-09-27T17:42:33.184Z] WARN: Usuario no encontrado
+[2025-09-27T17:42:33.185Z] INFO: Usuario encontrado
+[2025-09-27T17:42:33.186Z] INFO: Usuario encontrado
+[2025-09-27T17:42:33.186Z] ERROR: Error en encriptación
+[2025-09-27T17:42:33.187Z] WARN: Usuario no encontrado
+[2025-09-27T17:42:33.188Z] INFO: Credenciales correctas
+[2025-09-27T17:42:33.189Z] ERROR: Error en encriptación
+[2025-09-27T17:42:33.189Z] WARN: Contraseña incorrecta
+[2025-09-27T17:42:33.190Z] WARN: Usuario no encontrado
+[2025-09-27T17:42:33.190Z] INFO: Usuario encontrado
+[2025-09-27T17:42:33.192Z] ERROR: Error en encriptación
+[2025-09-27T17:42:33.192Z] WARN: Usuario no encontrado
+[2025-09-27T17:42:33.193Z] INFO: Usuario encontrado
+[2025-09-27T17:42:33.193Z] WARN: Usuario no encontrado
+[2025-09-27T17:42:34.465Z] INFO: Chat creado correctamente
+[2025-09-27T17:42:34.474Z] INFO: Chat leído correctamente
+[2025-09-27T17:42:34.475Z] ERROR: El id del chat no existe
+[2025-09-27T17:42:34.476Z] INFO: Mensaje creado correctamente
+[2025-09-27T17:42:34.477Z] ERROR: El id del chat no existe
+[2025-09-27T17:42:34.478Z] INFO: Mensaje eliminado correctamente
+[2025-09-27T17:42:34.479Z] ERROR: El id del chat no existe
+[2025-09-27T17:42:34.480Z] INFO: Chat eliminado correctamente
+[2025-09-27T17:42:34.485Z] ERROR: El id del chat no existe
+[2025-09-27T17:44:56.765Z] INFO: Server Active http://localhost:4000
+[2025-09-27T17:44:56.775Z] INFO: Database connected
+[2025-09-27T17:52:09.733Z] INFO: Server Active http://localhost:4000
+[2025-09-27T17:52:39.740Z] WARN: Retrying to connect to the database...
+[2025-09-28T17:54:37.980Z] INFO: Server Active http://localhost:4000
+[2025-09-28T17:55:07.982Z] WARN: Retrying to connect to the database...
+[2025-09-28T17:55:48.018Z] WARN: Retrying to connect to the database...
+[2025-09-28T17:56:28.038Z] WARN: Retrying to connect to the database...
+[2025-09-28T17:56:59.936Z] INFO: Server Active http://localhost:4000
+[2025-09-28T17:57:30.803Z] INFO: Server Active http://localhost:4000
+[2025-09-28T17:57:53.104Z] INFO: Server Active http://localhost:4000
+[2025-09-28T17:58:21.940Z] INFO: Server Active http://localhost:4000
+[2025-09-28T17:58:45.953Z] INFO: Token creado correctamente
+[2025-09-28T17:58:45.961Z] ERROR: Falló la creación
+[2025-09-28T17:58:45.963Z] INFO: Token leído correctamente
+[2025-09-28T17:58:45.964Z] ERROR: Token inválido
+[2025-09-28T17:58:47.255Z] INFO: Usuario creado correctamente
+[2025-09-28T17:58:47.259Z] ERROR: Error en encriptación
+[2025-09-28T17:58:47.260Z] INFO: El teléfono ya está registrado
+[2025-09-28T17:58:47.261Z] INFO: Usuario actualizado correctamente
+[2025-09-28T17:58:47.262Z] ERROR: Error en encriptación
+[2025-09-28T17:58:47.262Z] WARN: Usuario no encontrado
+[2025-09-28T17:58:47.263Z] INFO: Usuario encontrado
+[2025-09-28T17:58:47.264Z] INFO: Usuario encontrado
+[2025-09-28T17:58:47.264Z] ERROR: Error en encriptación
+[2025-09-28T17:58:47.265Z] WARN: Usuario no encontrado
+[2025-09-28T17:58:47.265Z] INFO: Credenciales correctas
+[2025-09-28T17:58:47.266Z] ERROR: Error en encriptación
+[2025-09-28T17:58:47.266Z] WARN: Contraseña incorrecta
+[2025-09-28T17:58:47.267Z] WARN: Usuario no encontrado
+[2025-09-28T17:58:47.267Z] INFO: Usuario encontrado
+[2025-09-28T17:58:47.269Z] ERROR: Error en encriptación
+[2025-09-28T17:58:47.269Z] WARN: Usuario no encontrado
+[2025-09-28T17:58:47.270Z] INFO: Usuario encontrado
+[2025-09-28T17:58:47.271Z] WARN: Usuario no encontrado
+[2025-09-28T18:01:36.496Z] INFO: Server Active http://localhost:4000
+[2025-09-28T18:04:54.311Z] INFO: Server Active http://localhost:4000
+[2025-09-28T19:08:10.547Z] INFO: Server Active http://localhost:4000
+[2025-09-28T19:08:29.327Z] INFO: Server Active http://localhost:4000
+[2025-09-28T19:08:51.055Z] INFO: Server Active http://localhost:4000
+[2025-09-28T19:09:01.387Z] INFO: Server Active http://localhost:4000
+[2025-09-28T19:09:29.051Z] INFO: Server Active http://localhost:4000
+[2025-09-28T19:09:40.414Z] INFO: Server Active http://localhost:4000
+[2025-09-28T19:09:49.296Z] INFO: Server Active http://localhost:4000
+[2025-09-28T19:10:02.876Z] INFO: Server Active http://localhost:4000
+[2025-09-28T19:10:17.808Z] INFO: Server Active http://localhost:4000
+[2025-09-28T19:10:21.522Z] INFO: Server Active http://localhost:4000
+[2025-09-28T19:10:35.535Z] INFO: Server Active http://localhost:4000
+[2025-09-28T19:10:43.739Z] INFO: Server Active http://localhost:4000
+[2025-09-28T19:10:51.523Z] INFO: Server Active http://localhost:4000
+[2025-09-28T19:10:56.502Z] INFO: Server Active http://localhost:4000
+[2025-09-28T19:11:11.905Z] INFO: Server Active http://localhost:4000
+[2025-09-28T19:11:41.905Z] WARN: Retrying to connect to the database...
+[2025-09-28T19:12:01.610Z] INFO: Server Active http://localhost:4000
+[2025-09-28T19:18:13.435Z] INFO: Token creado correctamente
+[2025-09-28T19:18:13.442Z] ERROR: Falló la creación
+[2025-09-28T19:18:13.444Z] INFO: Token leído correctamente
+[2025-09-28T19:18:13.446Z] ERROR: Token inválido
+[2025-09-28T19:18:14.641Z] INFO: Chat creado correctamente
+[2025-09-28T19:18:14.650Z] INFO: Chat leído correctamente
+[2025-09-28T19:18:14.651Z] ERROR: El id del chat no existe
+[2025-09-28T19:18:14.652Z] INFO: Mensaje creado correctamente
+[2025-09-28T19:18:14.654Z] ERROR: El id del chat no existe
+[2025-09-28T19:18:14.655Z] INFO: Mensaje eliminado correctamente
+[2025-09-28T19:18:14.656Z] ERROR: El id del chat no existe
+[2025-09-28T19:18:14.657Z] INFO: Chat eliminado correctamente
+[2025-09-28T19:18:14.657Z] ERROR: El id del chat no existe
+[2025-09-28T19:18:14.724Z] INFO: Usuario creado correctamente
+[2025-09-28T19:18:14.729Z] ERROR: Error en encriptación
+[2025-09-28T19:18:14.735Z] INFO: El teléfono ya está registrado
+[2025-09-28T19:18:14.736Z] INFO: Usuario actualizado correctamente
+[2025-09-28T19:18:14.737Z] ERROR: Error en encriptación
+[2025-09-28T19:18:14.738Z] WARN: Usuario no encontrado
+[2025-09-28T19:18:14.739Z] INFO: Usuario encontrado
+[2025-09-28T19:18:14.739Z] INFO: Usuario encontrado
+[2025-09-28T19:18:14.740Z] ERROR: Error en encriptación
+[2025-09-28T19:18:14.740Z] WARN: Usuario no encontrado
+[2025-09-28T19:18:14.741Z] INFO: Credenciales correctas
+[2025-09-28T19:18:14.742Z] ERROR: Error en encriptación
+[2025-09-28T19:18:14.742Z] WARN: Contraseña incorrecta
+[2025-09-28T19:18:14.743Z] WARN: Usuario no encontrado
+[2025-09-28T19:18:14.744Z] INFO: Usuario encontrado
+[2025-09-28T19:18:14.745Z] ERROR: Error en encriptación
+[2025-09-28T19:18:14.745Z] WARN: Usuario no encontrado
+[2025-09-28T19:18:14.746Z] INFO: Usuario encontrado
+[2025-09-28T19:18:14.746Z] WARN: Usuario no encontrado
+[2025-09-28T19:18:38.532Z] INFO: Chat creado correctamente
+[2025-09-28T19:18:38.546Z] INFO: Chat leído correctamente
+[2025-09-28T19:18:38.547Z] ERROR: El id del chat no existe
+[2025-09-28T19:18:38.548Z] INFO: Mensaje creado correctamente
+[2025-09-28T19:18:38.550Z] ERROR: El id del chat no existe
+[2025-09-28T19:18:38.551Z] INFO: Mensaje eliminado correctamente
+[2025-09-28T19:18:38.552Z] ERROR: El id del chat no existe
+[2025-09-28T19:18:38.557Z] INFO: Chat eliminado correctamente
+[2025-09-28T19:18:38.558Z] ERROR: El id del chat no existe
+[2025-09-28T19:18:38.865Z] INFO: Token creado correctamente
+[2025-09-28T19:18:38.871Z] ERROR: Falló la creación
+[2025-09-28T19:18:38.872Z] INFO: Token leído correctamente
+[2025-09-28T19:18:38.873Z] ERROR: Token inválido
+[2025-09-28T19:18:39.929Z] INFO: Usuario creado correctamente
+[2025-09-28T19:18:39.933Z] ERROR: Error en encriptación
+[2025-09-28T19:18:39.933Z] INFO: El teléfono ya está registrado
+[2025-09-28T19:18:39.934Z] INFO: Usuario actualizado correctamente
+[2025-09-28T19:18:39.935Z] ERROR: Error en encriptación
+[2025-09-28T19:18:39.936Z] WARN: Usuario no encontrado
+[2025-09-28T19:18:39.937Z] INFO: Usuario encontrado
+[2025-09-28T19:18:39.937Z] INFO: Usuario encontrado
+[2025-09-28T19:18:39.938Z] ERROR: Error en encriptación
+[2025-09-28T19:18:39.938Z] WARN: Usuario no encontrado
+[2025-09-28T19:18:39.939Z] INFO: Credenciales correctas
+[2025-09-28T19:18:39.939Z] ERROR: Error en encriptación
+[2025-09-28T19:18:39.940Z] WARN: Contraseña incorrecta
+[2025-09-28T19:18:39.940Z] WARN: Usuario no encontrado
+[2025-09-28T19:18:39.941Z] INFO: Usuario encontrado
+[2025-09-28T19:18:39.942Z] ERROR: Error en encriptación
+[2025-09-28T19:18:39.942Z] WARN: Usuario no encontrado
+[2025-09-28T19:18:39.943Z] INFO: Usuario encontrado
+[2025-09-28T19:18:39.948Z] WARN: Usuario no encontrado
+[2025-09-28T19:19:13.675Z] INFO: Server Active http://localhost:4000
+[2025-09-28T19:19:43.678Z] WARN: Retrying to connect to the database...
+[2025-09-28T19:20:23.711Z] WARN: Retrying to connect to the database...
+[2025-09-28T19:21:03.741Z] WARN: Retrying to connect to the database...
+[2025-09-28T19:21:43.756Z] WARN: Retrying to connect to the database...
+[2025-09-28T19:22:23.786Z] WARN: Retrying to connect to the database...
+[2025-09-28T19:23:03.805Z] WARN: Retrying to connect to the database...
+[2025-09-28T19:23:14.633Z] INFO: Server Active http://localhost:4000
+[2025-09-28T19:28:00.714Z] INFO: Server Active http://localhost:4000
+[2025-09-28T19:28:25.092Z] INFO: Token creado correctamente
+[2025-09-28T19:28:25.099Z] ERROR: Falló la creación
+[2025-09-28T19:28:25.100Z] INFO: Token leído correctamente
+[2025-09-28T19:28:25.102Z] ERROR: Token inválido
+[2025-09-28T19:28:26.362Z] INFO: Chat creado correctamente
+[2025-09-28T19:28:26.372Z] INFO: Chat leído correctamente
+[2025-09-28T19:28:26.373Z] ERROR: El id del chat no existe
+[2025-09-28T19:28:26.374Z] INFO: Mensaje creado correctamente
+[2025-09-28T19:28:26.376Z] ERROR: El id del chat no existe
+[2025-09-28T19:28:26.383Z] INFO: Mensaje eliminado correctamente
+[2025-09-28T19:28:26.384Z] ERROR: El id del chat no existe
+[2025-09-28T19:28:26.385Z] INFO: Chat eliminado correctamente
+[2025-09-28T19:28:26.385Z] ERROR: El id del chat no existe
+[2025-09-28T19:28:26.384Z] INFO: Usuario creado correctamente
+[2025-09-28T19:28:26.390Z] ERROR: Error en encriptación
+[2025-09-28T19:28:26.391Z] INFO: El teléfono ya está registrado
+[2025-09-28T19:28:26.392Z] INFO: Usuario actualizado correctamente
+[2025-09-28T19:28:26.393Z] ERROR: Error en encriptación
+[2025-09-28T19:28:26.394Z] WARN: Usuario no encontrado
+[2025-09-28T19:28:26.395Z] INFO: Usuario encontrado
+[2025-09-28T19:28:26.396Z] INFO: Usuario encontrado
+[2025-09-28T19:28:26.396Z] ERROR: Error en encriptación
+[2025-09-28T19:28:26.397Z] WARN: Usuario no encontrado
+[2025-09-28T19:28:26.398Z] INFO: Credenciales correctas
+[2025-09-28T19:28:26.399Z] ERROR: Error en encriptación
+[2025-09-28T19:28:26.399Z] WARN: Contraseña incorrecta
+[2025-09-28T19:28:26.400Z] WARN: Usuario no encontrado
+[2025-09-28T19:28:26.400Z] INFO: Usuario encontrado
+[2025-09-28T19:28:26.401Z] ERROR: Error en encriptación
+[2025-09-28T19:28:26.402Z] WARN: Usuario no encontrado
+[2025-09-28T19:28:26.402Z] INFO: Usuario encontrado
+[2025-09-28T19:28:26.403Z] WARN: Usuario no encontrado
+[2025-09-28T19:28:41.648Z] INFO: Chat creado correctamente
+[2025-09-28T19:28:41.661Z] INFO: Chat leído correctamente
+[2025-09-28T19:28:41.663Z] ERROR: El id del chat no existe
+[2025-09-28T19:28:41.665Z] INFO: Mensaje creado correctamente
+[2025-09-28T19:28:41.668Z] ERROR: El id del chat no existe
+[2025-09-28T19:28:41.669Z] INFO: Mensaje eliminado correctamente
+[2025-09-28T19:28:41.670Z] ERROR: El id del chat no existe
+[2025-09-28T19:28:41.671Z] INFO: Chat eliminado correctamente
+[2025-09-28T19:28:41.677Z] ERROR: El id del chat no existe
+[2025-09-28T19:28:41.972Z] INFO: Token creado correctamente
+[2025-09-28T19:28:41.986Z] ERROR: Falló la creación
+[2025-09-28T19:28:41.988Z] INFO: Token leído correctamente
+[2025-09-28T19:28:41.990Z] ERROR: Token inválido
+[2025-09-28T19:28:43.120Z] INFO: Usuario creado correctamente
+[2025-09-28T19:28:43.130Z] ERROR: Error en encriptación
+[2025-09-28T19:28:43.131Z] INFO: El teléfono ya está registrado
+[2025-09-28T19:28:43.132Z] INFO: Usuario actualizado correctamente
+[2025-09-28T19:28:43.133Z] ERROR: Error en encriptación
+[2025-09-28T19:28:43.133Z] WARN: Usuario no encontrado
+[2025-09-28T19:28:43.134Z] INFO: Usuario encontrado
+[2025-09-28T19:28:43.135Z] INFO: Usuario encontrado
+[2025-09-28T19:28:43.135Z] ERROR: Error en encriptación
+[2025-09-28T19:28:43.136Z] WARN: Usuario no encontrado
+[2025-09-28T19:28:43.137Z] INFO: Credenciales correctas
+[2025-09-28T19:28:43.137Z] ERROR: Error en encriptación
+[2025-09-28T19:28:43.138Z] WARN: Contraseña incorrecta
+[2025-09-28T19:28:43.138Z] WARN: Usuario no encontrado
+[2025-09-28T19:28:43.139Z] INFO: Usuario encontrado
+[2025-09-28T19:28:43.140Z] ERROR: Error en encriptación
+[2025-09-28T19:28:43.140Z] WARN: Usuario no encontrado
+[2025-09-28T19:28:43.141Z] INFO: Usuario encontrado
+[2025-09-28T19:28:43.142Z] WARN: Usuario no encontrado
+[2025-09-28T19:33:44.409Z] INFO: Server Active http://localhost:4000
+[2025-09-28T19:36:21.426Z] INFO: Server Active http://localhost:4000
+[2025-09-28T19:39:46.637Z] INFO: Server Active http://localhost:4000
+[2025-09-28T19:40:18.735Z] INFO: Server Active http://localhost:4000
+[2025-09-28T19:41:31.589Z] INFO: Server Active http://localhost:4000
+[2025-09-28T19:42:01.591Z] WARN: Retrying to connect to the database...
+[2025-09-28T19:42:41.625Z] WARN: Retrying to connect to the database...
+[2025-09-28T19:43:21.644Z] WARN: Retrying to connect to the database...
+[2025-09-28T19:44:01.662Z] WARN: Retrying to connect to the database...
+[2025-09-28T19:45:08.526Z] INFO: Token creado correctamente
+[2025-09-28T19:45:08.532Z] ERROR: Falló la creación
+[2025-09-28T19:45:08.534Z] INFO: Token leído correctamente
+[2025-09-28T19:45:08.535Z] ERROR: Token inválido
+[2025-09-28T19:45:08.862Z] INFO: Chat creado correctamente
+[2025-09-28T19:45:08.874Z] INFO: Chat leído correctamente
+[2025-09-28T19:45:08.879Z] ERROR: El id del chat no existe
+[2025-09-28T19:45:08.880Z] INFO: Mensaje creado correctamente
+[2025-09-28T19:45:08.882Z] ERROR: El id del chat no existe
+[2025-09-28T19:45:08.883Z] INFO: Mensaje eliminado correctamente
+[2025-09-28T19:45:08.883Z] ERROR: El id del chat no existe
+[2025-09-28T19:45:08.884Z] INFO: Chat eliminado correctamente
+[2025-09-28T19:45:08.885Z] ERROR: El id del chat no existe
+[2025-09-28T19:45:08.895Z] INFO: Usuario creado correctamente
+[2025-09-28T19:45:08.901Z] ERROR: Error en encriptación
+[2025-09-28T19:45:08.902Z] INFO: El teléfono ya está registrado
+[2025-09-28T19:45:08.903Z] INFO: Usuario actualizado correctamente
+[2025-09-28T19:45:08.904Z] ERROR: Error en encriptación
+[2025-09-28T19:45:08.904Z] WARN: Usuario no encontrado
+[2025-09-28T19:45:08.905Z] INFO: Usuario encontrado
+[2025-09-28T19:45:08.906Z] INFO: Usuario encontrado
+[2025-09-28T19:45:08.906Z] ERROR: Error en encriptación
+[2025-09-28T19:45:08.907Z] WARN: Usuario no encontrado
+[2025-09-28T19:45:08.908Z] INFO: Credenciales correctas
+[2025-09-28T19:45:08.908Z] ERROR: Error en encriptación
+[2025-09-28T19:45:08.909Z] WARN: Contraseña incorrecta
+[2025-09-28T19:45:08.909Z] WARN: Usuario no encontrado
+[2025-09-28T19:45:08.910Z] INFO: Usuario encontrado
+[2025-09-28T19:45:08.911Z] ERROR: Error en encriptación
+[2025-09-28T19:45:08.912Z] WARN: Usuario no encontrado
+[2025-09-28T19:45:08.912Z] INFO: Usuario encontrado
+[2025-09-28T19:45:08.913Z] WARN: Usuario no encontrado
+[2025-09-28T19:45:36.782Z] INFO: Token creado correctamente
+[2025-09-28T19:45:36.787Z] ERROR: Falló la creación
+[2025-09-28T19:45:36.788Z] INFO: Token leído correctamente
+[2025-09-28T19:45:36.789Z] ERROR: Token inválido
+[2025-09-28T19:45:37.124Z] INFO: Chat creado correctamente
+[2025-09-28T19:45:37.134Z] INFO: Chat leído correctamente
+[2025-09-28T19:45:37.135Z] ERROR: El id del chat no existe
+[2025-09-28T19:45:37.135Z] INFO: Mensaje creado correctamente
+[2025-09-28T19:45:37.137Z] ERROR: El id del chat no existe
+[2025-09-28T19:45:37.138Z] INFO: Mensaje eliminado correctamente
+[2025-09-28T19:45:37.139Z] ERROR: El id del chat no existe
+[2025-09-28T19:45:37.139Z] INFO: Chat eliminado correctamente
+[2025-09-28T19:45:37.140Z] ERROR: El id del chat no existe
+[2025-09-28T19:45:37.152Z] INFO: Usuario creado correctamente
+[2025-09-28T19:45:37.157Z] ERROR: Error en encriptación
+[2025-09-28T19:45:37.158Z] INFO: El teléfono ya está registrado
+[2025-09-28T19:45:37.159Z] INFO: Usuario actualizado correctamente
+[2025-09-28T19:45:37.160Z] ERROR: Error en encriptación
+[2025-09-28T19:45:37.161Z] WARN: Usuario no encontrado
+[2025-09-28T19:45:37.161Z] INFO: Usuario encontrado
+[2025-09-28T19:45:37.162Z] INFO: Usuario encontrado
+[2025-09-28T19:45:37.162Z] ERROR: Error en encriptación
+[2025-09-28T19:45:37.163Z] WARN: Usuario no encontrado
+[2025-09-28T19:45:37.164Z] INFO: Credenciales correctas
+[2025-09-28T19:45:37.165Z] ERROR: Error en encriptación
+[2025-09-28T19:45:37.166Z] WARN: Contraseña incorrecta
+[2025-09-28T19:45:37.167Z] WARN: Usuario no encontrado
+[2025-09-28T19:45:37.167Z] INFO: Usuario encontrado
+[2025-09-28T19:45:37.168Z] ERROR: Error en encriptación
+[2025-09-28T19:45:37.169Z] WARN: Usuario no encontrado
+[2025-09-28T19:45:37.169Z] INFO: Usuario encontrado
+[2025-09-28T19:45:37.170Z] WARN: Usuario no encontrado
+[2025-09-28T19:47:34.185Z] INFO: Token creado correctamente
+[2025-09-28T19:47:34.190Z] ERROR: Falló la creación
+[2025-09-28T19:47:34.192Z] INFO: Token leído correctamente
+[2025-09-28T19:47:34.192Z] ERROR: Token inválido
+[2025-09-28T19:47:34.582Z] INFO: Chat creado correctamente
+[2025-09-28T19:47:34.593Z] INFO: Chat leído correctamente
+[2025-09-28T19:47:34.594Z] ERROR: El id del chat no existe
+[2025-09-28T19:47:34.595Z] INFO: Mensaje creado correctamente
+[2025-09-28T19:47:34.596Z] ERROR: El id del chat no existe
+[2025-09-28T19:47:34.597Z] INFO: Mensaje eliminado correctamente
+[2025-09-28T19:47:34.598Z] ERROR: El id del chat no existe
+[2025-09-28T19:47:34.603Z] INFO: Chat eliminado correctamente
+[2025-09-28T19:47:34.604Z] ERROR: El id del chat no existe
+[2025-09-28T19:47:34.611Z] INFO: Usuario creado correctamente
+[2025-09-28T19:47:34.615Z] ERROR: Error en encriptación
+[2025-09-28T19:47:34.616Z] INFO: El teléfono ya está registrado
+[2025-09-28T19:47:34.617Z] INFO: Usuario actualizado correctamente
+[2025-09-28T19:47:34.618Z] ERROR: Error en encriptación
+[2025-09-28T19:47:34.619Z] WARN: Usuario no encontrado
+[2025-09-28T19:47:34.620Z] INFO: Usuario encontrado
+[2025-09-28T19:47:34.621Z] INFO: Usuario encontrado
+[2025-09-28T19:47:34.621Z] ERROR: Error en encriptación
+[2025-09-28T19:47:34.622Z] WARN: Usuario no encontrado
+[2025-09-28T19:47:34.623Z] INFO: Credenciales correctas
+[2025-09-28T19:47:34.623Z] ERROR: Error en encriptación
+[2025-09-28T19:47:34.624Z] WARN: Contraseña incorrecta
+[2025-09-28T19:47:34.625Z] WARN: Usuario no encontrado
+[2025-09-28T19:47:34.625Z] INFO: Usuario encontrado
+[2025-09-28T19:47:34.626Z] ERROR: Error en encriptación
+[2025-09-28T19:47:34.627Z] WARN: Usuario no encontrado
+[2025-09-28T19:47:34.628Z] INFO: Usuario encontrado
+[2025-09-28T19:47:34.628Z] WARN: Usuario no encontrado
+[2025-09-28T19:51:22.927Z] INFO: Token creado correctamente
+[2025-09-28T19:51:22.933Z] ERROR: Falló la creación
+[2025-09-28T19:51:22.934Z] INFO: Token leído correctamente
+[2025-09-28T19:51:22.935Z] ERROR: Token inválido
+[2025-09-28T19:51:23.297Z] INFO: Chat creado correctamente
+[2025-09-28T19:51:23.310Z] INFO: Chat leído correctamente
+[2025-09-28T19:51:23.311Z] ERROR: El id del chat no existe
+[2025-09-28T19:51:23.312Z] INFO: Mensaje creado correctamente
+[2025-09-28T19:51:23.314Z] ERROR: El id del chat no existe
+[2025-09-28T19:51:23.315Z] INFO: Mensaje eliminado correctamente
+[2025-09-28T19:51:23.315Z] ERROR: El id del chat no existe
+[2025-09-28T19:51:23.316Z] INFO: Chat eliminado correctamente
+[2025-09-28T19:51:23.317Z] ERROR: El id del chat no existe
+[2025-09-28T19:51:23.342Z] INFO: Usuario creado correctamente
+[2025-09-28T19:51:23.347Z] ERROR: Error en encriptación
+[2025-09-28T19:51:23.348Z] INFO: El teléfono ya está registrado
+[2025-09-28T19:51:23.349Z] INFO: Usuario actualizado correctamente
+[2025-09-28T19:51:23.349Z] ERROR: Error en encriptación
+[2025-09-28T19:51:23.350Z] WARN: Usuario no encontrado
+[2025-09-28T19:51:23.351Z] INFO: Usuario encontrado
+[2025-09-28T19:51:23.352Z] INFO: Usuario encontrado
+[2025-09-28T19:51:23.352Z] ERROR: Error en encriptación
+[2025-09-28T19:51:23.353Z] WARN: Usuario no encontrado
+[2025-09-28T19:51:23.354Z] INFO: Credenciales correctas
+[2025-09-28T19:51:23.362Z] ERROR: Error en encriptación
+[2025-09-28T19:51:23.363Z] WARN: Contraseña incorrecta
+[2025-09-28T19:51:23.363Z] WARN: Usuario no encontrado
+[2025-09-28T19:51:23.364Z] INFO: Usuario encontrado
+[2025-09-28T19:51:23.366Z] ERROR: Error en encriptación
+[2025-09-28T19:51:23.367Z] WARN: Usuario no encontrado
+[2025-09-28T19:51:23.367Z] INFO: Usuario encontrado
+[2025-09-28T19:51:23.368Z] WARN: Usuario no encontrado
+[2025-09-28T19:51:30.013Z] INFO: Server Active http://localhost:4000
+[2025-09-28T19:51:30.030Z] INFO: Database connected
+[2025-09-28T19:51:38.138Z] INFO: Server Active http://localhost:4000
+[2025-09-28T19:51:38.149Z] INFO: Database connected
+[2025-09-28T19:56:59.569Z] INFO: Server Active http://localhost:4000
+[2025-09-28T19:56:59.581Z] INFO: Database connected
+[2025-09-28T19:57:31.306Z] INFO: Texto encriptado
+[2025-09-28T19:57:31.307Z] INFO: Texto encriptado
+[2025-09-28T19:57:31.345Z] INFO: Usuario creado correctamente
+[2025-09-28T19:57:31.352Z] INFO: Token creado correctamente
+[2025-09-28T19:57:59.801Z] INFO: Token leído correctamente
+[2025-09-28T19:58:18.503Z] INFO: Texto encriptado
+[2025-09-28T19:58:18.503Z] INFO: Texto encriptado
+[2025-09-28T19:58:18.514Z] INFO: Usuario actualizado correctamente
+[2025-09-28T19:58:34.072Z] INFO: Usuario encontrado
+[2025-09-28T19:58:34.073Z] INFO: Texto desencriptado
+[2025-09-28T19:58:34.073Z] INFO: Texto desencriptado
+[2025-09-28T19:58:45.691Z] INFO: Texto encriptado
+[2025-09-28T19:58:45.691Z] INFO: Texto encriptado
+[2025-09-28T19:58:45.695Z] INFO: Credenciales correctas
+[2025-09-28T19:58:45.696Z] INFO: Token creado correctamente
+[2025-09-28T19:59:02.071Z] INFO: Texto encriptado
+[2025-09-28T19:59:02.076Z] INFO: Usuario encontrado
+[2025-09-28T19:59:12.408Z] INFO: Usuario encontrado
+[2025-09-28T19:59:25.286Z] INFO: Texto encriptado
+[2025-09-28T19:59:25.289Z] INFO: Texto encriptado
+[2025-09-28T19:59:25.292Z] INFO: El teléfono ya está registrado
+[2025-09-28T19:59:30.535Z] INFO: Texto encriptado
+[2025-09-28T19:59:30.536Z] INFO: Texto encriptado
+[2025-09-28T19:59:30.539Z] INFO: El teléfono ya está registrado
+[2025-09-28T19:59:36.222Z] INFO: Texto encriptado
+[2025-09-28T19:59:36.223Z] INFO: Texto encriptado
+[2025-09-28T19:59:36.231Z] INFO: Usuario creado correctamente
+[2025-09-28T19:59:36.231Z] INFO: Token creado correctamente
+[2025-09-28T19:59:49.033Z] INFO: Token leído correctamente
+[2025-09-28T20:00:18.453Z] INFO: Chat creado correctamente
+[2025-09-28T20:01:09.309Z] INFO: Server Active http://localhost:4000
+[2025-09-28T20:01:09.321Z] INFO: Database connected
+[2025-09-28T20:01:42.139Z] INFO: Server Active http://localhost:4000
+[2025-09-28T20:01:42.157Z] INFO: Database connected
+[2025-09-28T20:01:49.724Z] INFO: Server Active http://localhost:4000
+[2025-09-28T20:01:49.734Z] INFO: Database connected
+[2025-09-28T20:02:09.656Z] INFO: Chat leído correctamente
+[2025-09-28T20:03:02.871Z] INFO: Mensaje creado correctamente
+[2025-09-28T20:03:16.820Z] INFO: Mensaje creado correctamente
+[2025-09-28T20:04:53.691Z] INFO: Chat creado correctamente
+[2025-09-28T20:06:05.313Z] INFO: Server Active http://localhost:4000
+[2025-09-28T20:06:05.326Z] INFO: Database connected
+[2025-09-28T20:06:17.819Z] INFO: Mensaje creado correctamente
+[2025-09-28T20:06:28.331Z] INFO: Mensaje creado correctamente
+[2025-09-28T20:07:31.263Z] INFO: Mensaje eliminado correctamente
+[2025-09-28T20:08:00.422Z] INFO: Chat eliminado correctamente
+[2025-09-28T20:08:31.457Z] INFO: Token creado correctamente
+[2025-09-28T20:08:31.463Z] ERROR: Falló la creación
+[2025-09-28T20:08:31.464Z] INFO: Token leído correctamente
+[2025-09-28T20:08:31.465Z] ERROR: Token inválido
+[2025-09-28T20:08:31.841Z] INFO: Usuario creado correctamente
+[2025-09-28T20:08:31.846Z] ERROR: Error en encriptación
+[2025-09-28T20:08:31.847Z] INFO: El teléfono ya está registrado
+[2025-09-28T20:08:31.848Z] INFO: Usuario actualizado correctamente
+[2025-09-28T20:08:31.849Z] ERROR: Error en encriptación
+[2025-09-28T20:08:31.850Z] WARN: Usuario no encontrado
+[2025-09-28T20:08:31.851Z] INFO: Usuario encontrado
+[2025-09-28T20:08:31.851Z] INFO: Usuario encontrado
+[2025-09-28T20:08:31.852Z] ERROR: Error en encriptación
+[2025-09-28T20:08:31.853Z] WARN: Usuario no encontrado
+[2025-09-28T20:08:31.854Z] INFO: Credenciales correctas
+[2025-09-28T20:08:31.855Z] ERROR: Error en encriptación
+[2025-09-28T20:08:31.855Z] WARN: Contraseña incorrecta
+[2025-09-28T20:08:31.856Z] WARN: Usuario no encontrado
+[2025-09-28T20:08:31.857Z] INFO: Usuario encontrado
+[2025-09-28T20:08:31.858Z] ERROR: Error en encriptación
+[2025-09-28T20:08:31.858Z] WARN: Usuario no encontrado
+[2025-09-28T20:08:31.859Z] INFO: Usuario encontrado
+[2025-09-28T20:08:31.860Z] WARN: Usuario no encontrado
+[2025-09-28T20:08:33.217Z] INFO: Chat creado correctamente
+[2025-09-28T20:08:33.228Z] INFO: Chat leído correctamente
+[2025-09-28T20:08:33.229Z] ERROR: El id del chat no existe
+[2025-09-28T20:08:33.230Z] INFO: Mensaje creado correctamente
+[2025-09-28T20:08:33.231Z] ERROR: El id del chat no existe
+[2025-09-28T20:08:33.232Z] INFO: Mensaje eliminado correctamente
+[2025-09-28T20:08:33.233Z] ERROR: El id del chat no existe
+[2025-09-28T20:08:33.233Z] INFO: Chat eliminado correctamente
+[2025-09-28T20:08:33.234Z] ERROR: El id del chat no existe
+[2025-09-28T20:26:08.338Z] INFO: Token creado correctamente
+[2025-09-28T20:26:08.344Z] ERROR: Falló la creación
+[2025-09-28T20:26:08.345Z] INFO: Token leído correctamente
+[2025-09-28T20:26:08.346Z] ERROR: Token inválido
+[2025-09-28T20:26:08.678Z] INFO: Chat creado correctamente
+[2025-09-28T20:26:08.693Z] INFO: Chat leído correctamente
+[2025-09-28T20:26:08.694Z] ERROR: El id del chat no existe
+[2025-09-28T20:26:08.695Z] INFO: Mensaje creado correctamente
+[2025-09-28T20:26:08.696Z] ERROR: El id del chat no existe
+[2025-09-28T20:26:08.697Z] INFO: Mensaje eliminado correctamente
+[2025-09-28T20:26:08.698Z] ERROR: El id del chat no existe
+[2025-09-28T20:26:08.699Z] INFO: Chat eliminado correctamente
+[2025-09-28T20:26:08.699Z] ERROR: El id del chat no existe
+[2025-09-28T20:26:08.718Z] INFO: Usuario creado correctamente
+[2025-09-28T20:26:08.723Z] ERROR: Error en encriptación
+[2025-09-28T20:26:08.724Z] INFO: El teléfono ya está registrado
+[2025-09-28T20:26:08.724Z] INFO: Usuario actualizado correctamente
+[2025-09-28T20:26:08.726Z] ERROR: Error en encriptación
+[2025-09-28T20:26:08.726Z] WARN: Usuario no encontrado
+[2025-09-28T20:26:08.727Z] INFO: Usuario encontrado
+[2025-09-28T20:26:08.728Z] INFO: Usuario encontrado
+[2025-09-28T20:26:08.729Z] ERROR: Error en encriptación
+[2025-09-28T20:26:08.730Z] WARN: Usuario no encontrado
+[2025-09-28T20:26:08.731Z] INFO: Credenciales correctas
+[2025-09-28T20:26:08.732Z] ERROR: Error en encriptación
+[2025-09-28T20:26:08.738Z] WARN: Contraseña incorrecta
+[2025-09-28T20:26:08.739Z] WARN: Usuario no encontrado
+[2025-09-28T20:26:08.739Z] INFO: Usuario encontrado
+[2025-09-28T20:26:08.741Z] ERROR: Error en encriptación
+[2025-09-28T20:26:08.741Z] WARN: Usuario no encontrado
+[2025-09-28T20:26:08.742Z] INFO: Usuario encontrado
+[2025-09-28T20:26:08.744Z] WARN: Usuario no encontrado
+[2025-09-28T20:26:26.972Z] INFO: Server Active http://localhost:4000
+[2025-09-28T20:26:26.986Z] INFO: Database connected
+[2025-09-28T21:31:48.861Z] INFO: Server Active http://localhost:4000
+[2025-09-28T21:31:55.553Z] INFO: Database connected
+[2025-09-28T21:32:29.288Z] INFO: Texto encriptado
+[2025-09-28T21:32:29.289Z] INFO: Texto encriptado
+[2025-09-28T21:32:29.326Z] INFO: Usuario creado correctamente
+[2025-09-28T21:32:29.335Z] INFO: Token creado correctamente
+[2025-09-28T21:32:41.555Z] INFO: Token leído correctamente
+[2025-09-28T21:33:08.577Z] INFO: Texto encriptado
+[2025-09-28T21:33:08.578Z] INFO: Texto encriptado
+[2025-09-28T21:33:08.619Z] INFO: Usuario actualizado correctamente
+[2025-09-28T21:33:21.155Z] INFO: Usuario encontrado
+[2025-09-28T21:33:21.156Z] INFO: Texto desencriptado
+[2025-09-28T21:33:21.156Z] INFO: Texto desencriptado
+[2025-09-28T21:33:27.578Z] INFO: Texto encriptado
+[2025-09-28T21:33:27.579Z] INFO: Texto encriptado
+[2025-09-28T21:33:27.581Z] INFO: Credenciales correctas
+[2025-09-28T21:33:27.582Z] INFO: Token creado correctamente
+[2025-09-28T21:33:36.810Z] INFO: Texto encriptado
+[2025-09-28T21:33:36.815Z] INFO: Usuario encontrado
+[2025-09-28T21:33:44.824Z] INFO: Usuario encontrado
+[2025-09-28T21:33:52.255Z] INFO: Texto encriptado
+[2025-09-28T21:33:52.256Z] INFO: Texto encriptado
+[2025-09-28T21:33:52.258Z] INFO: El teléfono ya está registrado
+[2025-09-28T21:33:59.339Z] INFO: Texto encriptado
+[2025-09-28T21:33:59.340Z] INFO: Texto encriptado
+[2025-09-28T21:33:59.346Z] INFO: Usuario creado correctamente
+[2025-09-28T21:33:59.348Z] INFO: Token creado correctamente
+[2025-09-28T21:34:13.888Z] INFO: Token leído correctamente
+[2025-09-28T21:34:59.772Z] INFO: Chat creado correctamente
+[2025-09-28T21:35:36.884Z] INFO: Chat leído correctamente
+[2025-09-28T21:35:49.528Z] INFO: Mensaje creado correctamente
+[2025-09-28T21:36:01.399Z] INFO: Chat leído correctamente
+[2025-09-28T21:36:26.450Z] INFO: Mensaje eliminado correctamente
+[2025-09-28T21:36:32.384Z] INFO: Chat leído correctamente
+[2025-09-28T21:36:54.638Z] INFO: Chat eliminado correctamente
+[2025-09-28T21:36:59.246Z] ERROR: El id del chat no existe

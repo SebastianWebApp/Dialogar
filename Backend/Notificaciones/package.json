@@ -1,0 +1,16 @@
+{
+  "name": "notificaciones",
+  "version": "1.0.0",
+  "description": "notificaciones para la plataforma dialogar",
+  "repository": {
+    "type": "git",
+    "url": "SebastianWebApp"
+  },
+  "license": "ISC",
+  "author": "Mateo Espinosa",
+  "type": "commonjs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
