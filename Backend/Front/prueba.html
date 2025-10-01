@@ -1,0 +1,345 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <title>Chat con Salas Privadas - Cliente</title>
+    <style>
+        body {
+            font-family: system-ui, Arial;
+            max-width: 900px;
+            margin: 24px auto;
+            padding: 0 16px;
+        }
+
+        header {
+            display: flex;
+            gap: 12px;
+            align-items: center;
+            margin-bottom: 16px;
+        }
+
+        input,
+        button,
+        select,
+        textarea {
+            font-size: 14px;
+            padding: 8px;
+        }
+
+        #mensajes {
+            border: 1px solid #ddd;
+            border-radius: 8px;
+            padding: 12px;
+            height: 380px;
+            overflow: auto;
+            background: #fafafa;
+        }
+
+        .msg {
+            margin-bottom: 10px;
+            padding: 8px;
+            border-radius: 8px;
+            background: #fff;
+            box-shadow: 0 1px 0 rgba(0, 0, 0, 0.03);
+        }
+
+        .meta {
+            font-size: 12px;
+            color: #666;
+            margin-bottom: 6px;
+        }
+
+        .self {
+            background: #e6ffed;
+        }
+
+        img.preview {
+            max-width: 200px;
+            display: block;
+            margin-top: 6px;
+            border-radius: 6px;
+        }
+
+        .controls {
+            display: flex;
+            gap: 8px;
+            flex-wrap: wrap;
+            margin-top: 12px;
+            align-items: center;
+        }
+
+        label.file {
+            display: inline-block;
+            padding: 8px 10px;
+            border: 1px dashed #bbb;
+            border-radius: 6px;
+            cursor: pointer;
+        }
+
+        small.hint {
+            color: #666;
+            display: block;
+            margin-top: 6px;
+        }
+    </style>
+</head>
+
+<body>
+    <header>
+        <h2>Chat privado por usuario</h2>
+        <div style="margin-left:auto">
+            <input id="serverUrl" placeholder="URL servidor (ej: http://localhost:4001)" style="width:320px" />
+        </div>
+    </header>
+
+    <section>
+        <div style="display:flex; gap:8px; align-items:center;">
+            <input id="userId" placeholder="Tu userId (ej: usuario1)" />
+            <input id="name" placeholder="Tu nombre (opcional)" />
+            <input id="avatar" placeholder="URL avatar (opcional)" />
+            <button id="btnRegistrar">Registrarme</button>
+            <button id="btnLogout">Desconectar</button>
+        </div>
+        <small class="hint">El userId se guarda en <code>localStorage</code> para que al recargar vuelva a unirse a su
+            sala.</small>
+    </section>
+
+    <hr />
+
+    <div id="mensajes" aria-live="polite"></div>
+
+    <div class="controls">
+        <input id="destinatarioId" placeholder="Enviar a (userId destinatario)" />
+        <input id="idChat" placeholder="id_Chat (ej: chat123)" style="width:140px" />
+        <input id="message" placeholder="Escribe tu mensaje" style="flex:1" />
+        <label class="file">
+            📎 Adjuntar imagen
+            <input id="fileImage" type="file" accept="image/*" style="display:none" />
+        </label>
+        <button id="btnEnviar">Enviar</button>
+    </div>
+
+    <script src="https://cdn.socket.io/4.7.5/socket.io.min.js"></script>
+    <script>
+        // --- Config / Elementos ---
+        const serverUrlInput = document.getElementById('serverUrl');
+        const savedUrl = localStorage.getItem('chat_server_url') || 'http://localhost:4001';
+        serverUrlInput.value = savedUrl;
+
+        const userIdInput = document.getElementById('userId');
+        const nameInput = document.getElementById('name');
+        const avatarInput = document.getElementById('avatar');
+        const btnRegistrar = document.getElementById('btnRegistrar');
+        const btnLogout = document.getElementById('btnLogout');
+
+        const destinatarioInput = document.getElementById('destinatarioId');
+        const idChatInput = document.getElementById('idChat');
+        const messageInput = document.getElementById('message');
+        const fileInput = document.getElementById('fileImage');
+        const btnEnviar = document.getElementById('btnEnviar');
+
+        const mensajesDiv = document.getElementById('mensajes');
+
+        let socket = null;
+        let currentUserId = localStorage.getItem('chat_userId') || '';
+        let currentName = localStorage.getItem('chat_name') || '';
+        let currentAvatar = localStorage.getItem('chat_avatar') || '';
+        let pendingImageBase64 = null;
+
+        // Inicializar campos desde localStorage
+        if (currentUserId) userIdInput.value = currentUserId;
+        if (currentName) nameInput.value = currentName;
+        if (currentAvatar) avatarInput.value = currentAvatar;
+
+        // --- Helpers UI ---
+        function addMessage({ remitente = 'desconocido', mensaje = '', avatar = '', name = '', image = null, self = false, idChat = '' }) {
+            const el = document.createElement('div');
+            el.className = 'msg' + (self ? ' self' : '');
+            const meta = document.createElement('div');
+            meta.className = 'meta';
+            meta.innerHTML = `<strong>${name || remitente}</strong> <small>(${remitente})</small> ${idChat ? ' · chat:' + idChat : ''}`;
+            el.appendChild(meta);
+
+            if (mensaje) {
+                const text = document.createElement('div');
+                text.textContent = mensaje;
+                el.appendChild(text);
+            }
+            if (image) {
+                const img = document.createElement('img');
+                img.src = image;
+                img.className = 'preview';
+                el.appendChild(img);
+            }
+            mensajesDiv.appendChild(el);
+            mensajesDiv.scrollTop = mensajesDiv.scrollHeight;
+        }
+
+        function conectar() {
+            const url = serverUrlInput.value.trim() || 'http://localhost:4001';
+            localStorage.setItem('chat_server_url', url);
+
+            if (socket) {
+                try { socket.disconnect(); } catch (e) { }
+                socket = null;
+            }
+
+            socket = io(url, { transports: ['websocket', 'polling'] });
+
+            socket.on('connect', () => {
+                console.log('Conectado al servidor, socket id:', socket.id);
+                if (currentUserId) {
+                    socket.emit('registrarUsuario', currentUserId);
+                    addMessage({ remitente: 'sistema', mensaje: `Registrado como ${currentUserId}`, name: 'Sistema' });
+                }
+            });
+
+            socket.on('recibirMensaje', (data) => {
+                // data: { id_Chat, avatar, name, message, image }
+                addMessage({
+                    remitente: data.name || 'remitente',
+                    mensaje: data.message || '',
+                    avatar: data.avatar || '',
+                    name: data.name || data.remitenteId || 'Usuario',
+                    image: data.image || null,
+                    self: false,
+                    idChat: data.id_Chat || ''
+                });
+            });
+
+            socket.on('disconnect', () => {
+                console.log('Desconectado del servidor');
+                addMessage({ remitente: 'sistema', mensaje: 'Desconectado del servidor', name: 'Sistema' });
+            });
+        }
+
+        // Conectar inicialmente
+        conectar();
+
+        // --- Eventos ---
+        btnRegistrar.addEventListener('click', () => {
+            const userId = userIdInput.value.trim();
+            const name = nameInput.value.trim();
+            const avatar = avatarInput.value.trim();
+
+            if (!userId) return alert('Ingresa un userId.');
+
+            currentUserId = userId;
+            currentName = name;
+            currentAvatar = avatar;
+
+            localStorage.setItem('chat_userId', currentUserId);
+            localStorage.setItem('chat_name', currentName);
+            localStorage.setItem('chat_avatar', currentAvatar);
+
+            if (!socket || !socket.connected) conectar();
+
+            socket.emit('registrarUsuario', currentUserId);
+            addMessage({ remitente: currentUserId, mensaje: 'Te has registrado y unido a tu sala privada.', name: currentName || currentUserId, self: true });
+        });
+
+        btnLogout.addEventListener('click', () => {
+            localStorage.removeItem('chat_userId');
+            localStorage.removeItem('chat_name');
+            localStorage.removeItem('chat_avatar');
+            currentUserId = '';
+            currentName = '';
+            currentAvatar = '';
+            userIdInput.value = '';
+            nameInput.value = '';
+            avatarInput.value = '';
+            if (socket) {
+                try { socket.disconnect(); } catch (e) { }
+                socket = null;
+            }
+            addMessage({ remitente: 'sistema', mensaje: 'Has cerrado sesión localmente. Recarga para reconectar.', name: 'Sistema' });
+        });
+
+        // File -> Base64
+        fileInput.addEventListener('change', async (ev) => {
+            const f = ev.target.files[0];
+            if (!f) { pendingImageBase64 = null; return; }
+            const reader = new FileReader();
+            reader.onload = () => {
+                pendingImageBase64 = reader.result; // data:image/...
+                addMessage({ remitente: currentUserId || 'tú', mensaje: 'Imagen lista para enviar (previsualización abajo).', image: pendingImageBase64, self: true });
+            };
+            reader.readAsDataURL(f);
+            // limpiar el input para poder volver a seleccionar la misma imagen si hace falta
+            fileInput.value = null;
+        });
+
+        // Enviar mensaje
+        btnEnviar.addEventListener('click', () => {
+            const destinatarioId = destinatarioInput.value.trim();
+            const mensaje = messageInput.value.trim();
+            const id_Chat = idChatInput.value.trim() || ('chat_' + Date.now());
+
+            if (!destinatarioId) return alert('Ingresa el userId del destinatario.');
+            if (!mensaje && !pendingImageBase64) return alert('Escribe un mensaje o adjunta una imagen.');
+
+            const payload = {
+                destinatarioId,
+                id_Chat,
+                avatar: currentAvatar || '',
+                name: currentName || currentUserId || 'Anon',
+                message: mensaje,
+                image: pendingImageBase64 || null
+            };
+
+            // Emitir al servidor
+            if (!socket || !socket.connected) {
+                alert('No estás conectado al servidor. Revisa la URL y vuelve a registrarte.');
+                return;
+            }
+
+            socket.emit('enviarMensaje', payload);
+
+            // Reflejar en el remitente inmediatamente
+            addMessage({
+                remitente: currentUserId || 'tú',
+                mensaje: mensaje,
+                avatar: currentAvatar || '',
+                name: currentName || (currentUserId || 'tú'),
+                image: pendingImageBase64 || null,
+                self: true,
+                idChat
+            });
+
+            // limpiar
+            messageInput.value = '';
+            pendingImageBase64 = null;
+        });
+
+        // Permitir dar Enter para enviar mensaje rápidamente
+        messageInput.addEventListener('keydown', (e) => {
+            if (e.key === 'Enter') {
+                e.preventDefault();
+                btnEnviar.click();
+            }
+        });
+
+        // Cambiar URL del servidor reconecta
+        serverUrlInput.addEventListener('change', () => {
+            conectar();
+        });
+
+        // Auto-registrar si existe userId guardado al cargar la página
+        window.addEventListener('load', () => {
+            const saved = localStorage.getItem('chat_userId');
+            if (saved) {
+                // esperar un momento para que socket se conecte
+                setTimeout(() => {
+                    if (socket && socket.connected) {
+                        socket.emit('registrarUsuario', saved);
+                        addMessage({ remitente: 'sistema', mensaje: `Auto-registrado como ${saved}`, name: 'Sistema' });
+                    }
+                }, 400);
+            }
+        });
+    </script>
+</body>
+
+</html>
