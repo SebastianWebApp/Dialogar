@@ -60,6 +60,33 @@ export class Chats {
     }
   };
 
+  // Leemos los chats
+  readChats = async (req: Request, res: Response) => {
+    try {
+      const { Id } = req.params;
+
+      const process = await this.chatsService.ReadByUser(Id);
+
+      if (process.state) {
+        return res.status(200).json({
+          content: process.content,
+          state: true,
+        });
+      } else {
+        return res.status(400).json({
+          content: process.content,
+          state: false,
+        });
+      }
+    } catch (error) {
+      logger.error(error);
+      return res.status(500).json({
+        content: "Error al realizar el proceso, intente de nuevo",
+        state: false,
+      });
+    }
+  };
+
   // Creamos un nuevo mensaje
   updateChats = async (req: Request, res: Response) => {
     try {

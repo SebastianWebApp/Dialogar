@@ -1,0 +1,46 @@
+body {
+  font-family: "Roboto", sans-serif;
+}
+.form-input-custom {
+  border-bottom: 2px solid;
+  transition: border-color 0.3s ease-in-out;
+}
+.form-input-custom:focus {
+  outline: none;
+  border-bottom-color: var(--tw-prose-links) !important;
+  --tw-ring-color: transparent;
+}
+.dark .form-input-custom:focus {
+  border-bottom-color: var(--tw-prose-links) !important;
+}
+.group .upload-overlay {
+  opacity: 0;
+  transition: opacity 0.3s ease-in-out;
+}
+.group:hover .upload-overlay {
+  opacity: 1;
+}
+
+.bg-primary {
+  background-color: #00a884;
+}
+
+.bg-main {
+  background-color: #f0f3f5;
+}
+
+.bg-panel {
+  background-color: #ffffff;
+}
+
+.bg-form {
+  background-color: #f6f6f7;
+}
+
+.text-primary {
+  color: #00a884;
+}
+
+.background-dark {
+  background-color: #122017;
+}

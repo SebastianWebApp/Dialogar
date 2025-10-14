@@ -67,6 +67,65 @@ router_crud_chats.post("/Crear_Chat", chatsController.createChats);
 
 /**
  * @swagger
+ * /api/crud_chats/Leer_Chats/{Id}:
+ *   get:
+ *     summary: Leer lista de chats para un usuario
+ *     tags: [Chats]
+ *     parameters:
+ *       - in: path
+ *         name: Id
+ *         required: true
+ *         schema:
+ *           type: string
+ *         description: ID del usuario
+ *     responses:
+ *       200:
+ *         description: Chats obtenidos correctamente
+ *         content:
+ *           application/json:
+ *             schema:
+ *               type: object
+ *               properties:
+ *                 state:
+ *                   type: boolean
+ *                 content:
+ *                   type: array
+ *                   items:
+ *                     type: object
+ *                     properties:
+ *                       chatId:
+ *                         type: string
+ *                         description: ID del chat
+ *                       otherUsers:
+ *                         type: array
+ *                         description: Perfiles de los otros usuarios del chat
+ *                         items:
+ *                           type: object
+ *                           properties:
+ *                             Name:
+ *                               type: string
+ *                             Avatar:
+ *                               type: string
+ *                       lastMessage:
+ *                         type: object
+ *                         properties:
+ *                           sender:
+ *                             type: string
+ *                           content:
+ *                             type: string
+ *                           image:
+ *                             type: string
+ *                           timestamp:
+ *                             type: string
+ *                             format: date-time
+ *       400:
+ *         description: Error al leer los mensajes
+ */
+
+router_crud_chats.get("/Leer_Chats/:Id", chatsController.readChats);
+
+/**
+ * @swagger
  * /api/crud_chats/Leer_Mensajes/{Id}/{Page}:
  *   get:
  *     summary: Leer mensajes paginados de un chat

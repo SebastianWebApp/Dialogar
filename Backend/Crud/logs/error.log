@@ -279,3 +279,5 @@
 [2025-09-28T20:26:08.732Z] ERROR: Error en encriptación
 [2025-09-28T20:26:08.741Z] ERROR: Error en encriptación
 [2025-09-28T21:36:59.246Z] ERROR: El id del chat no existe
+[2025-10-02T22:47:19.178Z] ERROR: Operation `Users.findOne()` buffering timed out after 10000ms
+[2025-10-03T12:46:38.682Z] ERROR: No existen chats para este usuario

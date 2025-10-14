@@ -1544,3 +1544,43 @@
 [2025-09-28T21:36:32.384Z] INFO: Chat leído correctamente
 [2025-09-28T21:36:54.638Z] INFO: Chat eliminado correctamente
 [2025-09-28T21:36:59.246Z] ERROR: El id del chat no existe
+[2025-10-02T22:46:38.607Z] INFO: Server Active http://localhost:4000
+[2025-10-02T22:47:08.612Z] WARN: Retrying to connect to the database...
+[2025-10-02T22:47:09.168Z] INFO: Texto encriptado
+[2025-10-02T22:47:09.169Z] INFO: Texto encriptado
+[2025-10-02T22:47:19.178Z] ERROR: Operation `Users.findOne()` buffering timed out after 10000ms
+[2025-10-02T22:47:48.637Z] WARN: Retrying to connect to the database...
+[2025-10-02T22:48:28.653Z] WARN: Retrying to connect to the database...
+[2025-10-02T22:49:08.673Z] WARN: Retrying to connect to the database...
+[2025-10-02T22:49:48.705Z] WARN: Retrying to connect to the database...
+[2025-10-02T22:50:19.009Z] INFO: Server Active http://localhost:4000
+[2025-10-02T22:50:49.010Z] WARN: Retrying to connect to the database...
+[2025-10-02T22:51:29.041Z] WARN: Retrying to connect to the database...
+[2025-10-03T12:44:31.952Z] INFO: Server Active http://localhost:4000
+[2025-10-03T12:44:31.969Z] INFO: Database connected
+[2025-10-03T12:44:59.031Z] INFO: Texto encriptado
+[2025-10-03T12:44:59.032Z] INFO: Texto encriptado
+[2025-10-03T12:44:59.059Z] INFO: Usuario creado correctamente
+[2025-10-03T12:44:59.061Z] INFO: Token creado correctamente
+[2025-10-03T12:45:03.130Z] INFO: Texto encriptado
+[2025-10-03T12:45:03.131Z] INFO: Texto encriptado
+[2025-10-03T12:45:03.137Z] INFO: Usuario creado correctamente
+[2025-10-03T12:45:03.139Z] INFO: Token creado correctamente
+[2025-10-03T12:45:45.645Z] INFO: Chat creado correctamente
+[2025-10-03T12:45:57.100Z] INFO: Usuario encontrado
+[2025-10-03T12:45:57.100Z] INFO: Chats leídos correctamente
+[2025-10-03T12:46:38.682Z] ERROR: No existen chats para este usuario
+[2025-10-03T12:47:01.161Z] INFO: Chat creado correctamente
+[2025-10-03T12:47:16.136Z] INFO: Usuario encontrado
+[2025-10-03T12:47:16.137Z] INFO: Chats leídos correctamente
+[2025-10-03T12:47:30.077Z] INFO: Chat creado correctamente
+[2025-10-03T12:47:33.202Z] INFO: Usuario encontrado
+[2025-10-03T12:47:33.203Z] INFO: Usuario encontrado
+[2025-10-03T12:47:33.203Z] INFO: Chats leídos correctamente
+[2025-10-03T12:48:10.755Z] INFO: Chat leído correctamente
+[2025-10-03T12:49:09.506Z] INFO: Mensaje creado correctamente
+[2025-10-03T12:49:22.600Z] INFO: Chat leído correctamente
+[2025-10-03T12:49:29.700Z] INFO: Usuario encontrado
+[2025-10-03T12:49:29.701Z] INFO: Usuario encontrado
+[2025-10-03T12:49:29.702Z] INFO: Chats leídos correctamente
+[2025-10-03T12:50:15.392Z] INFO: Mensaje creado correctamente
